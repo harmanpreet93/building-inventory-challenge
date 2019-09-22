@@ -1,0 +1,9 @@
+[submodule "3D_BuildingModeling"]
+	path = 3D_BuildingModeling
+	url = https://github.com/pkhigh/3D_BuildingModeling/
+[submodule "DualGAN"]
+	path = DualGAN
+	url = https://github.com/pcuci/DualGAN/
+[submodule "BuildingAttibutes"]
+	path = BuildingAttibutes
+	url = https://github.com/pkhigh/BuildingAttibutes

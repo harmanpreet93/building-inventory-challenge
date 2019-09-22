@@ -1,0 +1,620 @@
+,formatted_address,latitude,longitude,postcode,Height,Floors,Construction Year,Type
+0,"1 Rue Quai de l'Horloge, Montréal, QC H2L 5C1, Canada",45.5122503,-73.5458503,H2L 5C1,"1,066",,,Office
+1,"1250 René-Lévesque, Montréal, QC H3B 4K4, Canada",45.49732299999999,-73.57038100000003,H3B 4K4,743,47.0,1992.0,Office
+2,"539 Rue Sainte-Catherine O, Montréal, QC H3B 3C9, Canada",45.504471,-73.56883990000001,H3B 3C9,722,61.0,2024.0,Autres services professionels
+3,"485 Rue McGill, Montréal, QC H2Y 2H4, Canada",45.50108529999999,-73.55917190000002,H2Y 2H4,722,58.0,2022.0,Autres services professionels
+4,"1000 De La Gauchetière, 1000 Rue de la Gauchetière O, Montréal, QC H3B 4W5, Canada",45.4981757,-73.5663859,H3B 4W5,673,51.0,1992.0,Office
+5,"700 Rue Saint-Jacques, Montréal, QC H3C 1E9, Canada",45.49998710000001,-73.5612939,H3C 1E9,656,58.0,2023.0,Autres services professionels
+6,"800 Rue Gauvin, Montréal, QC H4Z 1A1, Canada",45.500884,-73.56176490000001,H4Z 1A1,623,47.0,1964.0,Autres services professionels
+7,"1 Place Ville Marie, Montreal, QC H3B 3Y1, Canada",45.5014758,-73.5692531,H3B 3Y1,617,43.0,1962.0,Office
+8,"Tour CIBC, Montréal, QC H3B 2L2, Canada",45.4985,-73.5709,H3B 2L2,614,45.0,1962.0,Office
+9,"910 Rue Peel, Montréal, QC H3C 2H8, Canada",45.4956791,-73.5678334,H3C 2H8,551,53.0,2019.0,Autres services professionels
+10,"Tour des Canadiens, Montréal, QC H3B 3A7, Canada",45.5025,-73.56819999999998,H3B 3A7,548,50.0,2016.0,Office
+11,"1501 McGill College, Montréal, QC H3A, Canada",45.502222,-73.57166699999998,H3A,519,36.0,1992.0,Office
+12,"1275 Avenue des Canadiens-de-Montréal Suite 110, Montréal, QC H3B 0G4, Canada",45.4964397,-73.5706624,H3B 0G4,482,44.0,2021.0,Autres services professionels
+13,"1155 Rue de la Montagne, Montréal, QC H3G 0C7, Canada",45.49692230000001,-73.5727871,H3G 0C7,479,37.0,2017.0,Autres services professionels
+14,"Tour KPMG, Montréal, QC H3A, Canada",45.5040953,-73.57092659999998,H3A,479,34.0,1987.0,Office
+15,"360 Rue Saint-François-Xavier, Montréal, QC H2Y 2S8, Canada",45.5025925,-73.5551673,H2Y 2S8,476,28.0,,Autres services professionels
+16,"1000 de la Montagne, Montréal, QC H3G 1Y7, Canada",45.4957146,-73.570753,H3G 1Y7,453,41.0,2021.0,Autres services professionels
+17,"380 Boulevard René-Lévesque O, Montréal, QC H2Z 0A6, Canada",45.5052688,-73.5641983,H2Z 0A6,446,40.0,2014.0,Residential
+18,"Tour Bell Média, 1800 Avenue McGill College, Montréal, QC H3A 3J6, Canada",45.5019854,-73.5721975,H3A 3J6,440,30.0,1988.0,Office
+19,"Tour Deloitte, Montréal, QC H3C 1B3, Canada",45.49672899999999,-73.56819200000002,H3C 1B3,436,24.0,2015.0,Office
+20,"500 Place d'Armes, Montréal, QC H2Y 2W3, Canada",45.50428,-73.557474,H2Y 2W3,435,32.0,1968.0,Office
+21,"Tour TELUS, Montréal, QC H3B, Canada",45.5020534,-73.5665047,H3B,430,34.0,1962.0,Office
+22,"Tour de la Banque Nationale, 600 Rue de la Gauchetière O, Montréal, QC H3B 4L2, Canada",45.50175420000001,-73.56393179999998,H3B 4L2,420,28.0,1983.0,Office
+23,"1000 Sherbrooke, Montréal, QC H3A, Canada",45.5027183,-73.57511579999998,H3A,420,28.0,1974.0,Office
+24,"1050 De La Gauchetiere West, Montréal, QC H3B 4C9, Canada",45.49767670000001,-73.56743309999997,H3B 4C9,420,38.0,1967.0,Residential
+25,"677 Rue Sainte-Catherine O, Montréal, QC H3B 5K4, Canada",45.50310169999999,-73.570184,H3B 5K4,420,28.0,1983.0,Autres services professionels
+26,"Tour Scotia, Montréal, QC H3A 2A7, Canada",45.505866,-73.575525,H3A 2A7,419,27.0,1990.0,Office
+27,"1215 Boulevard Robert-Bourassa, Montréal, QC H3B 0C3, Canada",45.5027748,-73.5684694,H3B 0C3,407,33.0,2013.0,Residential
+28,"Icône, Montréal, QC H3G 1Z2, Canada",45.497113,-73.57256799999998,H3G 1Z2,407,32.0,2020.0,Office
+29,"Le Port-Royal, Montréal, QC H3B 4A5, Canada",45.50123,-73.5679,H3B 4A5,400,33.0,1964.0,Office
+30,"1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada",45.50026130000001,-73.5703016,H3B 2V6,400,26.0,1931.0,Autres services professionels
+31,"1185 Boulevard Robert-Bourassa, Montréal, QC H3B 3A7, Canada",45.5024425,-73.5679597,H3B 3A7,397,37.0,2018.0,Autres services professionels
+32,"360 Rue Saint-Jacques, Montréal, QC H2Y 2N1, Canada",45.5022725,-73.55923829999998,H2Y 2N1,397,22.0,1928.0,Autres services professionels
+33,"1450 Boulevard René-Lévesque O, Montréal, QC H3G 0E1, Canada",45.49456180000001,-73.57386,H3G 0E1,394,38.0,2020.0,Autres services professionels
+34,"1 Rue Quai de l'Horloge, Montréal, QC H2L 5C1, Canada",45.5122503,-73.5458503,H2L 5C1,394,38.0,2018.0,Office
+35,"1390 Boulevard René-Lévesque O, Montréal, QC H3G 0E3, Canada",45.49551810000001,-73.5731093,H3G 0E3,394,40.0,2017.0,Residential
+36,"1300 Boulevard René-Lévesque O, Montréal, QC H3G 0B7, Canada",45.49692260000001,-73.5716582,H3G 0B7,394,40.0,2016.0,Autres services professionels
+37,"1300 Boulevard René-Lévesque O, Montréal, QC H3G 0B7, Canada",45.49692260000001,-73.5716582,H3G 0B7,394,40.0,2017.0,Autres services professionels
+38,"1201 Boulevard René-Lévesque O, Montréal, QC H3B 2L7, Canada",45.49796250000001,-73.57163609999998,H3B 2L7,386,38.0,1982.0,Residential
+39,"1010 Rue de la Gauchetière O, Montréal, QC H3B 2N2, Canada",45.4985083,-73.5689833,H3B 2N2,384,26.0,,Autres services professionels
+40,"1010 Rue de la Gauchetière O, Montréal, QC H3B 2N2, Canada",45.4985083,-73.5689833,H3B 2N2,371,28.0,1968.0,Autres services professionels
+41,"1051 Rue Sanguinet, Montréal, QC H2X 3E4, Canada",45.5121652,-73.5578941,H2X 3E4,368,22.0,2020.0,Autres services professionels
+42,"Édifice Hydro-Québec, Montréal, QC H2Z 1A4, Canada",45.508333,-73.5625,H2Z 1A4,361,27.0,1962.0,Office
+43,"500 Boulevard René-Lévesque O, Montréal, QC H2Z 1W7, Canada",45.5029704,-73.565545,H2Z 1W7,361,26.0,1983.0,Office
+44,"1625 Boulevard de Maisonneuve O, Montréal, QC H3H 2N4, Canada",45.4953959,-73.5798896,H3H 2N4,351,30.0,1967.0,Autres services professionels
+45,"405 Rue de la Concorde, Montréal, QC H3A 0H1, Canada",45.5071185,-73.5709073,H3A 0H1,344,34.0,2017.0,Autres services professionels
+46,"Tour Intact, 2020 Boulevard Robert-Bourassa, Montréal, QC H3A 2A5, Canada",45.5039643,-73.57228559999999,H3A 2A5,341,26.0,1973.0,Office
+47,"1115 Rue Sherbrooke Ouest, Montréal, QC H3A 1H3, Canada",45.5017649,-73.57697900000002,H3A 1H3,322,32.0,1964.0,Autres services professionels
+48,"507 Place d'Armes #501, Montréal, QC H2Y 2W8, Canada",45.5052848,-73.55662889999998,H2Y 2W8,318,23.0,1931.0,Autres services professionels
+49,"Édifice Bell, Montréal, QC H2Z 1S5, Canada",45.502273,-73.56450199999998,H2Z 1S5,315,22.0,1929.0,Office
+50,"1010 Rue de la Gauchetière O, Montréal, QC H3B 2N2, Canada",45.4985083,-73.5689833,H3B 2N2,307,26.0,1977.0,Autres services professionels
+51,"édifice La Laurentienne, 1100 Boulevard René-Lévesque O, Montréal, QC H3B 4N4, Canada",45.4980258,-73.57024890000002,H3B 4N4,300,27.0,1986.0,Office
+52,"845 Rue Sainte-Catherine E, Montréal, QC H2L 2E4, Canada",45.5158746,-73.5596055,H2L 2E4,300,23.0,1972.0,Autres services professionels
+53,"666 Rue Sherbrooke Ouest #2300, Montréal, QC H3A 1E7, Canada",45.504981,-73.573089,H3A 1E7,288,24.0,1967.0,Immeuble commercial
+54,"1200 Avenue McGill College, Montréal, QC H3B 4G7, Canada",45.5013126,-73.57071009999999,H3B 4G7,280,24.0,1976.0,Autres services professionels
+55,"2000 Rue Drummond, Montréal, QC H3G 2X1, Canada",45.4995225,-73.57636169999998,H3G 2X1,262,24.0,2005.0,Autres services professionels
+56,"2001 Rue University, Montréal, QC H3A 3N2, Canada",45.5046599,-73.57187629999999,H3A 3N2,262,20.0,1975.0,Autres services professionels
+57,"Rue de la Concorde, Montréal, QC H3A, Canada",45.5075706,-73.57033790000001,H3A,259,18.0,2007.0,Autres services professionels
+58,"1085 Rue de la Cathédrale, Montréal, QC H3B 2V3, Canada",45.49921,-73.56823109999998,H3B 2V3,252,,1894.0,Immeuble commercial
+59,"1201 Rue de la Visitation, Montréal, QC H2L 2L9, Canada",45.51864399999999,-73.55354399999997,H2L 2L9,235,,1853.0,Immeuble commercial
+60,"635 Rue Sainte-Catherine O, Montréal, QC H3A 2B8, Canada",45.50364310000001,-73.56996889999998,H3A 2B8,230,,1859.0,Immeuble commercial
+61,"460 Boulevard René-Lévesque O, Montréal, QC H2Z 1A7, Canada",45.5035435,-73.564832,H2Z 1A7,226,,1847.0,Immeuble commercial
+62,"110 Rue Notre-Dame Ouest, Montréal, QC H2Y 1T2, Canada",45.5045254,-73.5561204,H2Y 1T2,226,,1829.0,Immeuble commercial
+63,"De Bleury, sherbrooke, Montréal, QC H3A 1B2, Canada",45.508188,-73.571251,H3A 1B2,213,13.0,,Immeuble commercial
+64,"1440 Rue de la Montagne, Montréal, QC H3G 1Z5, Canada",45.4984303,-73.57654409999998,H3G 1Z5,207,22.0,,Residential
+65,"1000 Place Jean-Paul-Riopelle, Montréal, QC H2Z 2B6, Canada",45.5029091,-73.5619531,H2Z 2B6,198,13.0,2003.0,Autres services professionels
+66,"University Centre, 3600 Mc Tavish St, Montreal, QC H3A 0E7, Canada",45.50354650000001,-73.5781433,H3A 0E7,184,20.0,1930.0,Autres services professionels
+67,"1 Rue Quai de l'Horloge, Montréal, QC H2L 5C1, Canada",45.5122503,-73.5458503,H2L 5C1,148,,,Office
+68,"3P6, 152 Notre-Dame St. East, Montreal, Quebec, Canada",45.507682,-73.5542783,,130,10.0,1914.0,Autres services professionels
+69,"1117 Rue Sainte-Catherine O, Montréal, QC H3B 1H9, Canada",45.4997557,-73.57333059999998,H3B 1H9,130,10.0,1915.0,Autres services professionels
+70,"1625 Clark, Montréal, QC H2X 2R4, Canada",45.5107777,-73.5667338,H2X 2R4,125,10.0,2004.0,Autres services professionels
+71,"2015 Rue Drummond, Montréal, QC H3G 1W7, Canada",45.4998216,-73.5762167,H3G 1W7,118,10.0,1920.0,Autres services professionels
+72,"1228 Rue Sherbrooke Ouest, Montréal, QC H3G 1H6, Canada",45.50015300000001,-73.577884,H3G 1H6,112,10.0,1912.0,Residential
+73,"1909 Avenue des Canadiens-de-Montréal, Montréal, QC H4B 5G0, Canada",45.4960667,-73.5693153,H4B 5G0,85,,1976.0,Autres services professionels
+74,"1288 Avenue des Canadiens-de-Montréal, Montréal, QC H3B 3B3, Canada",45.4961429,-73.5704392,H3B 3B3,≈677,55.0,2021.0,Autres services professionels
+75,"800 Boulevard de Maisonneuve East, Montréal, QC H2L 1Y5, Canada",45.51628839999999,-73.5600496,H2L 1Y5,≈627,51.0,2022.0,Autres services professionels
+76,"1300 Boulevard René-Lévesque O, Montréal, QC H3G 0B7, Canada",45.4968589,-73.57164519999998,H3G 0B7,≈615,50.0,,Autres services professionels
+77,"800 Rue Gauvin, Montréal, QC H4Z 1A1, Canada",45.500884,-73.56176490000001,H4Z 1A1,≈578,47.0,,Autres services professionels
+78,"800 Rue Gauvin, Montréal, QC H4Z 1A1, Canada",45.500884,-73.56176490000001,H4Z 1A1,≈578,47.0,,Autres services professionels
+79,"387 Rue Sainte-Catherine O, Montréal, QC H3B 1A4, Canada",45.49538279999999,-73.58094859999999,H3B 1A4,≈541,44.0,,Autres services professionels
+80,"385 Avenue Viger O, Montréal, QC H2Z 2B8, Canada",45.5038174,-73.5619959,H2Z 2B8,≈492,40.0,2020.0,Autres services professionels
+81,"Rue Saint-Antoine O, Montréal, QC H3C 1B5, Canada",45.4962014,-73.567888,H3C 1B5,≈492,40.0,,Autres services professionels
+82,"1740 Boulevard René-Lévesque O, Montréal, QC H3H 1R3, Canada",45.49229920000001,-73.576089,H3H 1R3,≈455,37.0,2020.0,Residential
+83,"250 Boulevard René-Lévesque O, Montréal, QC H2Z 1Z8, Canada",45.505802,-73.5636565,H2Z 1Z8,≈455,37.0,2018.0,Residential
+84,"400 Rue Sherbrooke Ouest, Montréal, QC H3A 0A9, Canada",45.5075559,-73.57139939999998,H3A 0A9,≈455,37.0,2008.0,Autres services professionels
+85,"628 Rue Saint-Jacques, Montréal, QC H3C 1C7, Canada",45.500518,-73.560845,H3C 1C7,≈431,35.0,2022.0,Autres services professionels
+86,"200 Boulevard René-Lévesque O, Montréal, QC H2Z 1X4, Canada",45.5068841,-73.56267079999998,H2Z 1X4,≈431,35.0,,Autres services professionels
+87,"2000 Rue Peel #735, Montréal, QC H3A 2W5, Canada",45.50090729999999,-73.5751638,H3A 2W5,≈431,35.0,,Autres services professionels
+88,"495 Avenue Viger O, Montréal, QC H2Z 1B1, Canada",45.5023869,-73.5635796,H2Z 1B1,≈418,34.0,2015.0,Residential
+89,"701 Côte de la Place d'Armes, Montréal, QC H2Y 2X6, Canada",45.505379,-73.557435,H2Y 2X6,≈406,33.0,,Immeuble commercial
+90,"1215 Phillips Square, Montreal, QC H3B, Canada",45.5037934,-73.56805440000002,H3B,≈406,33.0,,Autres services professionels
+91,"1255 Rue Peel, Montréal, QC H3B 4V4, Canada",45.5001458,-73.57202640000001,H3B 4V4,≈394,32.0,,Autres services professionels
+92,"2250 Rue Guy, Montréal, QC H3H 2M3, Canada",45.496038,-73.5810623,H3H 2M3,≈394,32.0,1971.0,Office
+93,"1050 Rue Sherbrooke Ouest, Montréal, QC H3A 2R6, Canada",45.5021442,-73.5756155,H3A 2R6,≈394,32.0,,Residential
+94,"999 Boulevard Robert-Bourassa, Montréal, QC H3C 6J7, Canada",45.5009495,-73.56247069999998,H3C 6J7,≈381,31.0,,Autres services professionels
+95,"3535 Avenue Papineau, Montréal, QC H2K 4J9, Canada",45.5292461,-73.56634439999998,H2K 4J9,≈369,30.0,,Autres services professionels
+96,"350 Rue Prince Arthur O, Montréal, QC H2X 3R4, Canada",45.5101723,-73.57571970000002,H2X 3R4,≈369,30.0,1976.0,Autres services professionels
+97,"350 Rue Prince Arthur O, Montréal, QC H2X 3R4, Canada",45.5101723,-73.57571970000002,H2X 3R4,≈369,30.0,1976.0,Autres services professionels
+98,"350 Rue Prince Arthur O, Montréal, QC H2X 3R4, Canada",45.5101723,-73.57571970000002,H2X 3R4,≈369,30.0,1976.0,Autres services professionels
+99,"1415 Rue St-Hubert, Montréal, QC H2L 3Y9, Canada",45.5157006,-73.5591572,H2L 3Y9,≈369,30.0,1974.0,Residential
+100,"475 Avenue du Président-Kennedy, Montréal, QC H3A 1J7, Canada",45.5064658,-73.5714177,H3A 1J7,≈369,30.0,1976.0,Residential
+101,"1500 Rue Sherbrooke Ouest, Montréal, QC H3G 1L3, Canada",45.497017,-73.580966,H3G 1L3,≈369,30.0,,Autres services professionels
+102,"900 Boulevard de Maisonneuve O, Montréal, QC H3A 0A8, Canada",45.501947,-73.57338899999998,H3A 0A8,≈345,28.0,2017.0,Autres services professionels
+103,"0B4, 350 Boulevard de Maisonneuve O, Montreal, Quebec, Canada",45.5069019,-73.56896569999998,,≈345,28.0,2010.0,Autres services professionels
+104,"1200 Boulevard de Maisonneuve O, Montréal, QC H3A 0A1, Canada",45.49981070000001,-73.57561240000003,H3A 0A1,≈345,28.0,2005.0,Autres services professionels
+105,"1 Rue Quai de l'Horloge, Montréal, QC H2L 5C1, Canada",45.5122503,-73.5458503,H2L 5C1,≈345,28.0,,Office
+106,"1100 Rue de la Montagne, Montréal, QC H3G 0A1, Canada",45.4966248,-73.5729448,H3G 0A1,≈332,27.0,2007.0,Residential
+107,"Cité du commerce électronique Montréal, Montréal, QC H3G, Canada",45.495564,-73.57227590000002,H3G,≈332,27.0,2003.0,Office
+108,"360 Rue Saint-Antoine O, Montréal, QC H2Y 3X4, Canada",45.502858,-73.56037099999998,H2Y 3X4,≈332,27.0,,Residential
+109,"1411 du Fort, Montréal, QC H3H 2N7, Canada",45.4917956,-73.58089629999998,H3H 2N7,≈320,26.0,,Autres services professionels
+110,"Hôtel Windsor, Montréal, QC H3B 2L2, Canada",45.498938,-73.57106499999998,H3B 2L2,≈320,26.0,,Office
+111,"410 Rue Sherbrooke Ouest, Montréal, QC H3A 1B3, Canada",45.5072889,-73.5715558,H3A 1B3,≈320,26.0,1971.0,Residential
+112,"1110 Rue Sherbrooke Ouest, Montréal, QC H3A 1G9, Canada",45.50143129999999,-73.57664040000002,H3A 1G9,≈320,26.0,,Residential
+113,"2100 Rue de Bleury, Montréal, QC H3A 0H4, Canada",45.5077919,-73.570373,H3A 0H4,≈308,25.0,2019.0,Autres services professionels
+114,"1593 Rue Clark, Montréal, QC H2X 2T1, Canada",45.51065420000001,-73.56657309999999,H2X 2T1,≈308,25.0,2019.0,Autres services professionels
+115,"1625 Clark, Montréal, QC H2X 2R4, Canada",45.5107777,-73.5667338,H2X 2R4,≈308,25.0,,Autres services professionels
+116,"505 Rue Sherbrooke E, Montréal, QC H2L 4N3, Canada",45.51827,-73.566974,H2L 4N3,≈308,25.0,,Residential
+117,"1160 Rue Saint Mathieu, Montréal, QC H3H 2P4, Canada",45.49227399999999,-73.57708690000003,H3H 2P4,≈308,25.0,1976.0,Autres services professionels
+118,"1210 Rue Stanley, Montréal, QC H3B 2S7, Canada",45.4985074,-73.57227879999998,H3B 2S7,≈295,24.0,2018.0,Autres services professionels
+119,"1400 Boulevard René-Lévesque E, Montréal, QC H2L 2M2, Canada",45.51793430000001,-73.55096739999998,H2L 2M2,≈295,24.0,1972.0,Autres services professionels
+120,"1193 Place Phillips, Montréal, QC H3B 3C9, Canada",45.50361600000001,-73.56739430000002,H3B 3C9,≈295,24.0,,Residential
+121,"2045 Rue Peel, Montréal, QC H3A 1T6, Canada",45.501465,-73.57542,H3A 1T6,≈295,24.0,1967.0,Residential
+122,"2045 Rue Peel, Montréal, QC H3A 1T6, Canada",45.501465,-73.57542,H3A 1T6,≈295,24.0,,Residential
+123,"1475 Boulevard René-Lévesque O, Montréal, QC H3G 1T8, Canada",45.49451370000001,-73.57469449999998,H3G 1T8,≈283,23.0,,Residential
+124,"1650 Avenue Cedar, Montréal, QC H3G 1A4, Canada",45.497115,-73.5886967,H3G 1A4,≈283,23.0,,Autres services professionels
+125,"Rue Saint Mathieu, Montréal, QC H3H, Canada",45.493821,-73.57927600000002,H3H,≈283,23.0,,Autres services professionels
+126,"1975 Boulevard de Maisonneuve O, Montréal, QC H3H 1K4, Canada",45.49291229999999,-73.5828064,H3H 1K4,≈283,23.0,,Autres services professionels
+127,"500 Boulevard de Maisonneuve O, Montréal, QC H3A, Canada",45.5057078,-73.570295,H3A,≈283,23.0,,Autres services professionels
+128,"2000 Avenue McGill College, Montréal, QC H3A 3J1, Canada",45.5026306,-73.5735681,H3A 3J1,≈283,23.0,1986.0,Immeuble commercial
+129,"500 Rue Sherbrooke Ouest, Montréal, QC H3A 3G6, Canada",45.5061379,-73.57201640000002,H3A 3G6,≈283,23.0,1982.0,Autres services professionels
+130,"475 Avenue du Président-Kennedy, Montréal, QC H3A 1J7, Canada",45.5064658,-73.5714177,H3A 1J7,≈283,23.0,,Residential
+131,"157 Rue Sherbrooke E, Montréal, QC H2X 1C7, Canada",45.514253,-73.5690168,H2X 1C7,≈283,23.0,,Residential
+132,"3463 Rue Sainte Famille, Montréal, QC H2X 2K7, Canada",45.5108059,-73.5719734,H2X 2K7,≈283,23.0,,Residential
+133,"Clofts, 375 Rue de la Concorde, Montréal, QC H3A 1J3, Canada",45.5075225,-73.57061340000001,H3A 1J3,≈271,22.0,2018.0,Autres services professionels
+134,"208 Rue Saint-Antoine O, Montréal, QC H2Y 0A6, Canada",45.50426640000001,-73.55931620000001,H2Y 0A6,≈271,22.0,2007.0,Residential
+135,"270 Rue Saint-Antoine O, Montréal, QC H2Y 0A3, Canada",45.5036061,-73.5595661,H2Y 0A3,≈271,22.0,2009.0,Residential
+136,"3470 Rue Stanley, Montréal, QC H3A 1R9, Canada",45.5020988,-73.5796457,H3A 1R9,≈271,22.0,,Autres services professionels
+137,"3555 Chemin de la Côte-des-Neiges, Montréal, QC H3H 1V2, Canada",45.49664200000001,-73.584822,H3H 1V2,≈271,22.0,,Autres services professionels
+138,"280 Rue Notre-Dame Est, Montréal, QC H2Y 1C5, Canada",45.5087323,-73.55311809999998,H2Y 1C5,≈271,22.0,,Autres services professionels
+139,"425 Rue Sherbrooke E, Montréal, QC H2L 1J9, Canada",45.51772039999999,-73.5675716,H2L 1J9,≈271,22.0,,Autres services professionels
+140,"455 Boulevard René-Lévesque O, Montréal, QC H2Z 1Z3, Canada",45.504607,-73.56553559999998,H2Z 1Z3,≈271,22.0,1987.0,Autres services professionels
+141,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈258,21.0,2014.0,Immeuble commercial
+142,"1140 Rue Wellington, Montréal, QC H3C 1V8, Canada",45.492185,-73.5579436,H3C 1V8,≈258,21.0,2019.0,Autres services professionels
+143,"990 Rue Ottawa, Montréal, QC H3C 1S3, Canada",45.4949905,-73.5585881,H3C 1S3,≈258,21.0,2015.0,Autres services professionels
+144,"1601 Rue Wellington, Montréal, QC H3K 1V7, Canada",45.4841592,-73.55802729999998,H3K 1V7,≈258,21.0,2012.0,Autres services professionels
+145,"1200 Rue Saint-Jacques, Montréal, QC H3C 0E9, Canada",45.49509159999999,-73.5661719,H3C 0E9,≈258,21.0,2006.0,Autres services professionels
+146,"1280 Rue Saint-Jacques, Montréal, QC H3C 0G1, Canada",45.49446529999999,-73.5666815,H3C 0G1,≈258,21.0,,Autres services professionels
+147,"Rue Peel, Montréal, QC, Canada",45.4984043,-73.5697988,,≈258,21.0,1973.0,Autres services professionels
+148,"71-B Rue de la Gauchetière O, Montréal, QC H2Z 1C2, Canada",45.507341,-73.560744,H2Z 1C2,≈258,21.0,,Immeuble commercial
+149,"1415 Rue St-Hubert, Montréal, QC H2L 3Y9, Canada",45.5157006,-73.5591572,H2L 3Y9,≈258,21.0,1972.0,Residential
+150,"1080 Côte du Beaver Hall, Montréal, QC H2Z 1S8, Canada",45.5023571,-73.565488,H2Z 1S8,≈258,21.0,1967.0,Office
+151,"900 Boulevard René-Lévesque O, Montréal, QC H3B 4A5, Canada",45.5005463,-73.56828279999998,H3B 4A5,≈258,21.0,1958.0,Immeuble commercial
+152,"3407 Rue Peel, Montréal, QC H3A 1W7, Canada",45.502181,-73.57673799999998,H3A 1W7,≈258,21.0,1958.0,Residential
+153,"1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada",45.50026130000001,-73.5703016,H3B 2V6,≈258,21.0,,Autres services professionels
+154,"1414 Rue Chomedey, Montréal, QC H3H 0A2, Canada",45.490339,-73.58355999999998,H3H 0A2,≈246,20.0,2013.0,Autres services professionels
+155,"1380 Rue Sherbrooke Ouest, Montréal, QC H3G 1J5, Canada",45.4985219,-73.57940009999999,H3G 1J5,≈246,20.0,2006.0,Autres services professionels
+156,"1981 Avenue McGill College, Montréal, QC H3A 2W8, Canada",45.5033659,-73.5728887,H3A 2W8,≈246,20.0,1982.0,Immeuble commercial
+157,"888 Rue Wellington #405, Montréal, QC H3C 0N1, Canada",45.49626660000001,-73.55550869999998,H3C 0N1,≈246,20.0,,Autres services professionels
+158,"1045 Rue Wellington, Montréal, QC H3C 1V6, Canada",45.493739700000006,-73.5572267,H3C 1V6,≈246,20.0,2014.0,Autres services professionels
+159,"135 Rue Sherbrooke E, Montréal, QC H2X 1C6, Canada",45.5138542,-73.56919719999998,H2X 1C6,≈246,20.0,,Autres services professionels
+160,"1009 Rue de Bleury, Montréal, QC H2Z 0A3, Canada",45.5041023,-73.56199670000002,H2Z 0A3,≈246,20.0,2006.0,Autres services professionels
+161,"1212 Avenue des Pins, Montréal, QC H3G 1A9, Canada",45.50275080000001,-73.58316270000002,H3G 1A9,≈246,20.0,1969.0,Autres services professionels
+162,"280 Rue Notre-Dame Est, Montréal, QC H2Y 1C5, Canada",45.5087323,-73.55311809999998,H2Y 1C5,≈246,20.0,1972.0,Autres services professionels
+163,"550 Rue Sherbrooke Ouest, Montréal, QC H3A 1B9, Canada",45.5057821,-73.57232479999998,H3A 1B9,≈246,20.0,1954.0,Autres services professionels
+164,"680 Rue Sherbrooke Ouest, Montréal, QC H3A 0B8, Canada",45.5046157,-73.57298370000002,H3A 0B8,≈246,20.0,1976.0,Autres services professionels
+165,"1350 Rue du Fort, Montréal, QC H3H 2R7, Canada",45.4912761,-73.58110309999998,H3H 2R7,≈246,20.0,,Autres services professionels
+166,"2055 Rue Saint Mathieu, Montréal, QC H3H 2J2, Canada",45.49492160000001,-73.5807566,H3H 2J2,≈246,20.0,,Autres services professionels
+167,"1645 Boulevard de Maisonneuve O, Montréal, QC H3H 2N3, Canada",45.4951663,-73.58029870000001,H3H 2N3,≈246,20.0,,Autres services professionels
+168,"1819 Boulevard de Maisonneuve O, Montréal, QC H3H 1K1, Canada",45.4942934,-73.58109509999998,H3H 1K1,≈246,20.0,,Autres services professionels
+169,"2175 Boulevard de Maisonneuve O, Montréal, QC H3H 1L5, Canada",45.4913251,-73.58462940000003,H3H 1L5,≈246,20.0,,Residential
+170,"1100 Rue de la Montagne, Montréal, QC H3G 0A1, Canada",45.4966248,-73.5729448,H3G 0A1,≈246,20.0,1974.0,Residential
+171,"1800 Boulevard René-Lévesque O, Montréal, QC H3H 2H2, Canada",45.4908675,-73.5768142,H3H 2H2,≈246,20.0,,Office
+172,"998 Rue Ottawa, Montréal, QC H3C 1S3, Canada",45.4948086,-73.5586616,H3C 1S3,≈246,20.0,1989.0,Immeuble commercial
+173,"1201 Boulevard René-Lévesque O, Montréal, QC H3B 2L7, Canada",45.49796250000001,-73.57163609999998,H3B 2L7,≈246,20.0,1974.0,Residential
+174,"1659 Rue Sherbrooke Ouest, Montréal, QC H3H 1E3, Canada",45.495737,-73.5828559,H3H 1E3,≈246,20.0,,Residential
+175,"612 Rue Saint-Jacques, Montréal, QC H3C 4M8, Canada",45.50085720000001,-73.5604291,H3C 4M8,≈234,19.0,2008.0,Autres services professionels
+176,"455 Boulevard René-Lévesque E, Montréal, QC H2L 4Y2, Canada",45.5134126,-73.55806679999998,H2L 4Y2,≈234,19.0,1965.0,Autres services professionels
+177,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈234,19.0,,Immeuble commercial
+178,"65 Rue Sherbrooke E, Montréal, QC H2X 1C4, Canada",45.51334199999999,-73.56933839999998,H2X 1C4,≈234,19.0,,Autres services professionels
+179,"1425 Rue Mackay, Montréal, QC H3G 2H6, Canada",45.4962457,-73.57744040000001,H3G 2H6,≈234,19.0,,Immeuble commercial
+180,"315 Boulevard René-Lévesque E, Montréal, QC H2X 3P3, Canada",45.51195790000001,-73.5591573,H2X 3P3,≈234,19.0,1970.0,Autres services professionels
+181,"235 Rue Sherbrooke Ouest, Montréal, QC H2X 1X8, Canada",45.50974220000001,-73.5709558,H2X 1X8,≈234,19.0,,Autres services professionels
+182,"999 Rue Saint-Urbain, Montréal, QC H2Z 0B4, Canada",45.506716,-73.559799,H2Z 0B4,≈234,19.0,,Residential
+183,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈221,18.0,2015.0,Immeuble commercial
+184,"625 Rue Saint Maurice, Montréal, QC H3C 1L3, Canada",45.5001487,-73.5590321,H3C 1L3,≈221,18.0,2014.0,Autres services professionels
+185,"Cité du commerce électronique Montréal, Montréal, QC H3G, Canada",45.495564,-73.57227590000002,H3G,≈221,18.0,2005.0,Office
+186,"1445 Rue Stanley #205, Montréal, QC H3A 3T1, Canada",45.49992020000001,-73.57456090000002,H3A 3T1,≈221,18.0,2003.0,Autres services professionels
+187,"1 Rue Notre-Dame Est, Montréal, QC H2Y 1B6, Canada",45.506868,-73.55578729999998,H2Y 1B6,≈221,18.0,1971.0,Immeuble commercial
+188,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈221,18.0,2017.0,Immeuble commercial
+189,"2150 Boulevard de Maisonneuve O, Montréal, QC H3H 1L2, Canada",45.4914441,-73.5839652,H3H 1L2,≈221,18.0,,Autres services professionels
+190,"1010 Rue Cherrier, Montréal, QC H2L 1H8, Canada",45.5215101,-73.5667071,H2L 1H8,≈221,18.0,1967.0,Autres services professionels
+191,"2285 Rue Saint Mathieu, Montréal, QC H3H 2J7, Canada",45.4955445,-73.5817343,H3H 2J7,≈221,18.0,,Autres services professionels
+192,"2150 Rue Mackay, Montréal, QC H3G 2H8, Canada",45.4970998,-73.5802647,H3G 2H8,≈221,18.0,,Autres services professionels
+193,"425 Boulevard de Maisonneuve O, Montréal, QC H3A 3G5, Canada",45.5061376,-73.57036320000002,H3A 3G5,≈221,18.0,1983.0,Autres services professionels
+194,"555 Boulevard René-Lévesque O, Montréal, QC H2Z 1B1, Canada",45.50362670000001,-73.5663677,H2Z 1B1,≈221,18.0,1961.0,Autres services professionels
+195,"1950 Avenue Lincoln, Montréal, QC H3H 2N8, Canada",45.4934813,-73.5831037,H3H 2N8,≈221,18.0,,Autres services professionels
+196,"5 Place Ville Marie, Montreal, QC H3B 2G2, Canada",45.5005469,-73.56894,H3B 2G2,≈221,18.0,1962.0,Autres services professionels
+197,"2000 Rue Mansfield, Montréal, QC H3A 1M4, Canada",45.5022638,-73.57371669999998,H3A 1M4,≈221,18.0,1982.0,Autres services professionels
+198,"400 Rue Dowd, Montréal, QC H2Z 1B7, Canada",45.50406599999999,-73.563982,H2Z 1B7,≈209,17.0,,Autres services professionels
+199,"120 Rue Peel, Montréal, QC H3C 0L8, Canada",45.493016,-73.557132,H3C 0L8,≈209,17.0,2014.0,Immeuble commercial
+200,"1255 Rue Jeanne-Mance, Montréal, QC H5B 1E5, Canada",45.50707939999999,-73.56481149999998,H5B 1E5,≈209,17.0,1976.0,Residential
+201,"1200 Avenue des Pins, Montréal, QC H3A 1A3, Canada",45.50326389999999,-73.5829073,H3A 1A3,≈209,17.0,,Autres services professionels
+202,"Place Jean-Paul-Riopelle, Montréal, QC H2Z, Canada",45.5032599,-73.5614764,H2Z,≈209,17.0,,Autres services professionels
+203,"Rue Pierce, Montréal, QC H3H, Canada",45.4947097,-73.5790171,H3H,≈209,17.0,1979.0,Autres services professionels
+204,"440 Boulevard René-Lévesque O, Montréal, QC H2Z 1Z6, Canada",45.5043703,-73.56498719999998,H2Z 1Z6,≈209,17.0,1976.0,Autres services professionels
+205,"3601 Boul St-Laurent, Montréal, QC H2X 2V5, Canada",45.5140711,-73.57263959999997,H2X 2V5,≈209,17.0,1965.0,Immeuble commercial
+206,"1572 Avenue du Docteur-Penfield, Montréal, QC H3G 1C4, Canada",45.496773,-73.58604609999998,H3G 1C4,≈209,17.0,,Autres services professionels
+207,"1155 Rue Sherbrooke Ouest, Montréal, QC H3A 2N3, Canada",45.5014505,-73.5773988,H3A 2N3,≈209,17.0,,Residential
+208,"3555 Rue Berri, Montréal, QC H2L 4G4, Canada",45.518754,-73.56797740000002,H2L 4G4,≈209,17.0,,Autres services professionels
+209,"2121 Rue Tupper, Montréal, QC H3H 1P1, Canada",45.4903096,-73.58191330000002,H3H 1P1,≈209,17.0,,Autres services professionels
+210,"1800 Avenue McGill College, Montréal, QC H3A 3J6, Canada",45.50243579999999,-73.57273620000002,H3A 3J6,≈209,17.0,,Autres services professionels
+211,"2100 Rue Saint-Marc, Montréal, QC H3H 2G6, Canada",45.4937479,-73.582302,H3H 2G6,≈209,17.0,,Autres services professionels
+212,"1350 Rue du Fort, Montréal, QC H3H 2R7, Canada",45.4914287,-73.5810247,H3H 2R7,≈209,17.0,,Residential
+213,"999 Boulevard Robert-Bourassa, Montréal, QC H3C 6J7, Canada",45.5009495,-73.56247069999998,H3C 6J7,≈209,17.0,1995.0,Autres services professionels
+214,"2000 Avenue McGill College, Montréal, QC H3A 3L3, Canada",45.5026299,-73.57349219999998,H3A 3L3,≈209,17.0,,Immeuble commercial
+215,"1440 Rue de la Montagne, Montréal, QC H3G 1Z5, Canada",45.4984303,-73.57654409999998,H3G 1Z5,≈197,16.0,2018.0,Residential
+216,"1700 Boulevard René-Lévesque O, Montréal, QC H3H 2V1, Canada",45.4926581,-73.5758584,H3H 2V1,≈197,16.0,2003.0,Autres services professionels
+217,"3405 Avenue Atwater, Montréal, QC H3H 1Y2, Canada",45.4920057,-73.58865329999998,H3H 1Y2,≈197,16.0,,Autres services professionels
+218,"3580 Avenue Lorne, Montréal, QC H2X 2A7, Canada",45.50769260000001,-73.5774781,H2X 2A7,≈197,16.0,,Autres services professionels
+219,"455 Rue Sherbrooke Ouest, Montréal, QC H3A 1B7, Canada",45.5069316,-73.57239090000002,H3A 1B7,≈197,16.0,1965.0,Residential
+220,"1650 Avenue Lincoln, Montréal, QC H3H 1H1, Canada",45.49549520000001,-73.5806084,H3H 1H1,≈197,16.0,,Autres services professionels
+221,"625 Rue Sainte-Catherine O, Montréal, QC H3B 1B7, Canada",45.5037501,-73.5694666,H3B 1B7,≈197,16.0,1972.0,Autres services professionels
+222,"625 Boulevard René-Lévesque O, Montréal, QC H3B 1R2, Canada",45.5025526,-73.56718790000002,H3B 1R2,≈197,16.0,1972.0,Office
+223,"475 Avenue du Président-Kennedy, Montréal, QC H3A 1J7, Canada",45.5064879,-73.5713305,H3A 1J7,≈197,16.0,,Autres services professionels
+224,"1 Rue Quai de l'Horloge, Montréal, QC H2L 5C1, Canada",45.5122503,-73.5458503,H2L 5C1,≈197,16.0,,Office
+225,"185 Rue Sherbrooke E, Montréal, QC H2X 1C7, Canada",45.514572,-73.56872299999998,H2X 1C7,≈197,16.0,,Residential
+226,"955 Boulevard René-Lévesque E, Montréal, QC H2L 4R2, Canada",45.515708,-73.55597440000003,H2L 4R2,≈197,16.0,,Immeuble commercial
+227,"20 Boulevard de Maisonneuve O Montréal, QC H2X 1Z3 Boulevard de Maisonneuve O, Montréal, QC H2X 1Z3, Canada",45.5103151,-73.5652667,H2X 1Z3,≈197,16.0,1967.0,Autres services professionels
+228,"505 Boulevard de Maisonneuve O, Montréal, QC H3A 3C2, Canada",45.5056764,-73.57087589999998,H3A 3C2,≈197,16.0,1981.0,Office
+229,"McIntyre Medical Bldg, 3655 Promenade Sir-William-Osler, Montreal, QC H3G 0B1, Canada",45.5030628,-73.5824822,H3G 0B1,≈197,16.0,1965.0,Office
+230,"2138 Rue Sainte-Catherine, Montréal, QC H3H 0B2, Canada",45.4908277,-73.5824548,H3H 0B2,≈197,16.0,,Autres services professionels
+231,"3463 Av du Parc, Montréal, QC H2X 2H6, Canada",45.5092101,-73.57260550000002,H2X 2H6,≈197,16.0,1976.0,Residential
+232,"1155 Rue Sherbrooke Ouest, Montréal, QC H3A 2N3, Canada",45.5014505,-73.5773988,H3A 2N3,≈197,16.0,,Residential
+233,"1800 Boulevard René-Lévesque O, Montréal, QC H3H 2H2, Canada",45.4909186,-73.57673270000002,H3H 2H2,≈185,15.0,2017.0,Autres services professionels
+234,"1751 Rue Richardson suite 3.500, Montréal, QC H3K 1G6, Canada",45.484051,-73.562141,H3K 1G6,≈185,15.0,2015.0,Autres services professionels
+235,"1321 Rue Sherbrooke Ouest, Montréal, QC H3G 1J4, Canada",45.4994885,-73.57921309999998,H3G 1J4,≈185,15.0,1926.0,Autres services professionels
+236,"1170 Rue Montcalm, Montréal, QC H2L 0M2, Canada",45.5175385,-73.55460759999998,H2L 0M2,≈185,15.0,2013.0,Autres services professionels
+237,"955 Boulevard René-Lévesque E, Montréal, QC H2L 4R2, Canada",45.515708,-73.55597440000003,H2L 4R2,≈185,15.0,,Immeuble commercial
+238,"500 Avenue des Pins, Montréal, QC H2W 1S7, Canada",45.5091999,-73.5794373,H2W 1S7,≈185,15.0,,Autres services professionels
+239,"2055 Rue de Bleury, Montréal, QC H3A 2K2, Canada",45.5076883,-73.5696329,H3A 2K2,≈185,15.0,,Autres services professionels
+240,"3440 Rue Durocher, Montréal, QC H2X 2E2, Canada",45.50735359999999,-73.5734805,H2X 2E2,≈185,15.0,,Autres services professionels
+241,"800 Boulevard René-Lévesque O W, Montréal, QC H3B 1X9, Canada",45.50131629999999,-73.56741140000003,H3B 1X9,≈185,15.0,1960.0,Immeuble commercial
+242,"1 Place Ville Marie-Ground Flr, Montreal, Quebec H3C 3B5, Canada",45.5015,-73.5684,H3C 3B5,≈185,15.0,1946.0,Immeuble commercial
+243,"2050 Rue Mansfield, Montréal, QC H3A 1Y9, Canada",45.5024537,-73.5744722,H3A 1Y9,≈185,15.0,,Immeuble commercial
+244,"1280 Rue Saint-Jacques, Montréal, QC H3C 0G1, Canada",45.49446529999999,-73.5666815,H3C 0G1,≈185,15.0,,Autres services professionels
+245,"1050 De La Gauchetiere West, Montréal, QC H3B 4C9, Canada",45.49767670000001,-73.56743309999997,H3B 4C9,≈185,15.0,,Residential
+246,"395 Maisonneuve Blvd W, Montreal, QC H3A 1L6, Canada",45.506494,-73.56995699999997,H3A 1L6,≈185,15.0,1968.0,Autres services professionels
+247,"1430 Rue Saint-Marc, Montréal, QC H3H 2G3, Canada",45.4930166,-73.5811666,H3H 2G3,≈185,15.0,,Autres services professionels
+248,"1255 Rue Saint-Marc, Montréal, QC H3H 2E8, Canada",45.49250319999999,-73.57962590000002,H3H 2E8,≈185,15.0,,Autres services professionels
+249,"2150 Boulevard de Maisonneuve O, Montréal, QC H3H 1L2, Canada",45.4914441,-73.5839652,H3H 1L2,≈185,15.0,,Autres services professionels
+250,"740 Rue Notre-Dame Ouest, Montréal, QC H3C 1J2, Canada",45.4993916,-73.56010090000002,H3C 1J2,≈185,15.0,1976.0,Office
+251,"Sussex St, Montreal, QC H3H, Canada",45.48912550000001,-73.5808373,H3H,≈185,15.0,,Autres services professionels
+252,"1450 Rue Guy, Montréal, QC H3H 0A1, Canada",45.495436100000006,-73.5791907,H3H 0A1,≈185,15.0,2009.0,Autres services professionels
+253,"1001 Boulevard de Maisonneuve O, Montréal, QC H3A 1X8, Canada",45.5015521,-73.5745365,H3A 1X8,≈185,15.0,1986.0,Autres services professionels
+254,"Montreal, QC, Canada",45.4990653,-73.56418520000003,,≈185,15.0,1967.0,Office
+255,"2075 Rue University, Montréal, QC H3A 1T9, Canada",45.5047659,-73.57261820000002,H3A 1T9,≈185,15.0,1974.0,Autres services professionels
+256,"40 Rue des Seigneurs, Montréal, QC H3J 1X2, Canada",45.4856859,-73.56671259999997,H3J 1X2,≈172,14.0,,Autres services professionels
+257,"1140 Rue Wellington, Montréal, QC H3C 1V8, Canada",45.492185,-73.5579436,H3C 1V8,≈172,14.0,2015.0,Autres services professionels
+258,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈172,14.0,2014.0,Immeuble commercial
+259,"901 de la Commune Est #614, Vieux-Montréal, QC H2L 0E2, Canada",45.51313920000001,-73.54930490000002,H2L 0E2,≈172,14.0,2012.0,Autres services professionels
+260,"345 Rue de la Gauchetière O, Montréal, QC H2Z 0A2, Canada",45.5041243,-73.5630121,H2Z 0A2,≈172,14.0,2006.0,Autres services professionels
+261,"1171 Rue Sainte-Catherine E, Montréal, QC H2L 2G8, Canada",45.5183218,-73.556598,H2L 2G8,≈172,14.0,2005.0,Immeuble commercial
+262,"1700 Rue Amherst, Montréal, QC H2L 3L5, Canada",45.518666,-73.560347,H2L 3L5,≈172,14.0,2002.0,Autres services professionels
+263,"1 Ave Du Port, Montreal, QC H3C, Canada",45.5215579,-73.5388593,H3C,≈172,14.0,1922.0,Autres services professionels
+264,"162 Rue Prince Arthur E, Montréal, QC H2X 1B7, Canada",45.515444,-73.5710385,H2X 1B7,≈172,14.0,,Immeuble commercial
+265,"4035 Rue Saint-Ambroise #220n, Montréal, QC H4C 2E1, Canada",45.4909708,-73.5581162,H4C 2E1,≈172,14.0,,Autres services professionels
+266,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈172,14.0,,Immeuble commercial
+267,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,≈172,14.0,,Immeuble commercial
+268,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈172,14.0,,Autres services professionels
+269,"2045 Rue Stanley, Montréal, QC H3A 2V4, Canada",45.50068579999999,-73.57594689999998,H3A 2V4,≈172,14.0,,Office
+270,"175 Rue Sherbrooke Ouest, Montréal, QC H2X 1X5, Canada",45.51027879999999,-73.57074909999999,H2X 1X5,≈172,14.0,,Autres services professionels
+271,"3465 Rue Hutchison, Montréal, QC H2X 2G3, Canada",45.508588,-73.57333,H2X 2G3,≈172,14.0,,Autres services professionels
+272,"1150 Rue Sherbrooke E, Montréal, QC H2L 1L8, Canada",45.522094,-73.56520700000002,H2L 1L8,≈172,14.0,,Autres services professionels
+273,"3445 Rue Drummond, Montréal, QC H3G 1X9, Canada",45.50131469999999,-73.5794708,H3G 1X9,≈172,14.0,,Autres services professionels
+274,"Papineau / Sainte-Catherine, Montréal, QC H2K 4H4, Canada",45.522614,-73.552565,H2K 4H4,≈172,14.0,,Autres services professionels
+275,"1808 Rue Sherbrooke Ouest, Montréal, QC H3H 1E5, Canada",45.4954225,-73.58239979999998,H3H 1E5,≈172,14.0,,Residential
+276,"Rue Milton, Montréal, QC H2X, Canada",45.5096398,-73.5735277,H2X,≈172,14.0,,Autres services professionels
+277,"1255 Phillips Square, Montreal, QC H3B 3G1, Canada",45.5041764,-73.56834049999998,H3B 3G1,≈172,14.0,1949.0,Autres services professionels
+278,"2175 Boulevard de Maisonneuve O, Montréal, QC H3H 1L5, Canada",45.4913251,-73.58462940000003,H3H 1L5,≈172,14.0,1976.0,Residential
+279,"1801 Avenue McGill College, Montréal, QC H3A 1Z4, Canada",45.50287720000001,-73.57228119999998,H3A 1Z4,≈172,14.0,1976.0,Autres services professionels
+280,"1155 Boulevard Robert-Bourassa, Montréal, QC H3B 3A7, Canada",45.50233529999999,-73.567647,H3B 3A7,≈172,14.0,1959.0,Autres services professionels
+281,"801 Rue Sherbrooke E #200, Montréal, QC H2L 0B7, Canada",45.51938740000001,-73.56678659999999,H2L 0B7,≈172,14.0,1962.0,Immeuble commercial
+282,"350 Rue Prince Arthur O, Montréal, QC H2X 3R4, Canada",45.5101723,-73.57571970000002,H2X 3R4,≈172,14.0,,Autres services professionels
+283,"1191 Rue Saint-Marc, Montréal, QC H3H 2E4, Canada",45.49185079999999,-73.57834709999999,H3H 2E4,≈172,14.0,,Autres services professionels
+284,"370 Rue Guy, Montréal, QC H3J 1S6, Canada",45.4894182,-73.56599140000002,H3J 1S6,≈172,14.0,1954.0,Autres services professionels
+285,"119 Rue Saint-Jacques, Montréal, QC H2Y 1L6, Canada",45.5048325,-73.55797179999998,H2Y 1L6,≈172,14.0,1959.0,Immeuble commercial
+286,"612 Rue Saint-Jacques, Montréal, QC H3C 4M8, Canada",45.50085720000001,-73.5604291,H3C 4M8,≈172,14.0,1962.0,Autres services professionels
+287,"450 Rue Sherbrooke E, Montréal, QC H2X 3L1, Canada",45.5175608,-73.56665269999998,H2X 3L1,≈172,14.0,,Office
+288,"1140 Boulevard de Maisonneuve O, Montréal, QC H3A 1M8, Canada",45.5002073,-73.57500449999998,H3A 1M8,≈172,14.0,1969.0,Autres services professionels
+289,"1055 Boulevard René-Lévesque E, Montréal, QC H2L 4S5, Canada",45.5163129,-73.5552463,H2L 4S5,≈172,14.0,1979.0,Autres services professionels
+290,"1134 Rue Sainte-Catherine O, Montréal, QC H3B 1H5, Canada",45.49944,-73.5732376,H3B 1H5,≈172,14.0,1950.0,Autres services professionels
+291,"1155 Rue Guy, Montréal, QC H3H 2K5, Canada",45.494145,-73.57496409999997,H3H 2K5,≈172,14.0,,Residential
+292,"1501 Rue de Bleury, Montréal, QC H3A 0H3, Canada",45.5073534,-73.5682714,H3A 0H3,≈160,13.0,2019.0,Autres services professionels
+293,"845 Rue Sherbrooke Ouest, Montréal, QC H3A 0G4, Canada",45.5047223,-73.57494709999997,H3A 0G4,≈160,13.0,,Autres services professionels
+294,"900 Rue Saint-Denis, Montréal, QC H2X 0A9, Canada",45.511138,-73.55579499999997,H2X 0A9,≈160,13.0,2013.0,Autres services professionels
+295,"1199 Rue de Bleury, Montréal, QC H3B 3H9, Canada",45.5059984,-73.5654936,H3B 3H9,≈160,13.0,,Autres services professionels
+296,"225 Rue Sherbrooke E, Montréal, QC H2X 1C9, Canada",45.5148792,-73.56852740000002,H2X 1C9,≈160,13.0,,Autres services professionels
+297,"550 Rue Sherbrooke Ouest, Montréal, QC H3A 1B9, Canada",45.5054306,-73.5724642,H3A 1B9,≈160,13.0,,Autres services professionels
+298,"3460 Rue Durocher, Montréal, QC H2X 2E3, Canada",45.5077623,-73.57403339999998,H2X 2E3,≈160,13.0,,Autres services professionels
+299,"3445 Rue Hutchison, Montréal, QC H2X 2G2, Canada",45.5083525,-73.57286640000002,H2X 2G2,≈160,13.0,,Autres services professionels
+300,"600 Boulevard René-Lévesque O, Montréal, QC H3L 3J7, Canada",45.50270159999999,-73.56613469999998,H3L 3J7,≈160,13.0,1949.0,Autres services professionels
+301,"215 Rue Sainte-Catherine E, Montréal, QC H2X 1L2, Canada",45.5120795,-73.5620668,H2X 1L2,≈160,13.0,,Immeuble commercial
+302,"215 Rue Sainte-Catherine E, Montréal, QC H2X 1L2, Canada",45.5120795,-73.5620668,H2X 1L2,≈160,13.0,,Immeuble commercial
+303,"215 Rue Sainte-Catherine E, Montréal, QC H2X 1L2, Canada",45.5120795,-73.5620668,H2X 1L2,≈160,13.0,,Immeuble commercial
+304,"215 Rue Sainte-Catherine E, Montréal, QC H2X 1L2, Canada",45.5120795,-73.5620668,H2X 1L2,≈160,13.0,,Immeuble commercial
+305,"1 Ave Du Port, Montreal, QC H3C, Canada",45.5215579,-73.5388593,H3C,≈160,13.0,,Autres services professionels
+306,"1050 De La Gauchetiere West, Montréal, QC H3B 4C9, Canada",45.49767670000001,-73.56743309999997,H3B 4C9,≈160,13.0,,Residential
+307,"1980 Rue Sherbrooke Ouest, Montréal, QC H3H 1E8, Canada",45.493736,-73.5836599,H3H 1E8,≈160,13.0,1953.0,Office
+308,"1900 Avenue Lincoln, Montréal, QC H3H 1H7, Canada",45.4938718,-73.5827175,H3H 1H7,≈160,13.0,1960.0,Autres services professionels
+309,"2050 Boulevard de Maisonneuve O, Montréal, QC H3H 1K7, Canada",45.4923404,-73.5827183,H3H 1K7,≈160,13.0,,Autres services professionels
+310,"805 Rue Sherbrooke Ouest, Montréal, QC H3A 2K6, Canada",45.5047573,-73.5748978,H3A 2K6,≈160,13.0,1970.0,Autres services professionels
+311,"50 Boulevard René-Lévesque O, Montréal, QC H2Z 1A2, Canada",45.5081912,-73.56172099999998,H2Z 1A2,≈160,13.0,,Residential
+312,"1751-1753 Rue Richardson, Montréal, QC H3K 1G5, Canada",45.4839358,-73.56235500000003,H3K 1G5,≈148,12.0,2015.0,Autres services professionels
+313,"82 Rue Sherbrooke Ouest, Montréal, QC H2X 1X3, Canada",45.51131450000001,-73.56956269999998,H2X 1X3,≈148,12.0,2002.0,Autres services professionels
+314,"200 Boulevard René-Lévesque O, Montréal, QC H2Z 1X4, Canada",45.5068841,-73.56267079999998,H2Z 1X4,≈148,12.0,1983.0,Autres services professionels
+315,"2600 Av Pierre-Dupuy, Montréal, QC H3C 3R6, Canada",45.4998316,-73.5437127,H3C 3R6,≈148,12.0,1967.0,Autres services professionels
+316,"20 Boulevard de Maisonneuve O Montréal, QC H2X 1Z3 Boulevard de Maisonneuve O, Montréal, QC H2X 1Z3, Canada",45.5103151,-73.5652667,H2X 1Z3,≈148,12.0,1930.0,Autres services professionels
+317,"1010 Rue Sainte-Catherine O, Montréal, QC H3B 3S3, Canada",45.5001239,-73.5720615,H3B 3S3,≈148,12.0,1930.0,Autres services professionels
+318,"1010 Rue Sainte-Catherine O, Montréal, QC H3B 3S3, Canada",45.5001239,-73.5720615,H3B 3S3,≈148,12.0,1912.0,Autres services professionels
+319,"1250 Avenue des Pins, Montréal, QC H3G 2P5, Canada",45.5022676,-73.5837315,H3G 2P5,≈148,12.0,,Autres services professionels
+320,"1070 Rue Saint Mathieu, Montréal, QC H3H 2S8, Canada",45.491749,-73.57593299999998,H3H 2S8,≈148,12.0,,Autres services professionels
+321,"1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada",45.50026130000001,-73.5703016,H3B 2V6,≈148,12.0,,Autres services professionels
+322,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈148,12.0,,Autres services professionels
+323,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈148,12.0,,Autres services professionels
+324,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈148,12.0,,Autres services professionels
+325,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈148,12.0,,Autres services professionels
+326,"1650 Boulevard René-Lévesque O, Montréal, QC H3H 2S1, Canada",45.49289690000001,-73.57537769999998,H3H 2S1,≈148,12.0,,Residential
+327,"4005 Rue Redpath, Montréal, QC H3G 2G9, Canada",45.500134,-73.58451699999998,H3G 2G9,≈148,12.0,,Autres services professionels
+328,"400 Boulevard de Maisonneuve O, Montréal, QC H3A 1L4, Canada",45.5063358,-73.56929699999998,H3A 1L4,≈148,12.0,1953.0,Autres services professionels
+329,"1980 Rue Sainte-Catherine E, Montréal, QC H2K 2H7, Canada",45.5238373,-73.550978,H2K 2H7,≈148,12.0,,Autres services professionels
+330,"3485 Avenue Papineau, Montréal, QC H2K 4J8, Canada",45.5290186,-73.56539990000002,H2K 4J8,≈148,12.0,,Autres services professionels
+331,"3430 Rue Jeanne-Mance, Montréal, QC H2X 2J9, Canada",45.5093109,-73.57159200000002,H2X 2J9,≈148,12.0,,Autres services professionels
+332,"403 Rue Ontario E, Montréal, QC H2L 1N5, Canada",45.516248,-73.56528999999998,H2L 1N5,≈148,12.0,,Immeuble commercial
+333,"1260 Rue Drummond, Montréal, QC H3G 1Y4, Canada",45.50132929999999,-73.58148890000002,H3G 1Y4,≈148,12.0,,Office
+334,"1230 Avenue du Docteur-Penfield, Montréal, QC H3G 1B5, Canada",45.50174459999999,-73.581195,H3G 1B5,≈148,12.0,,Autres services professionels
+335,"Mountain Pl, Montreal, QC H3G, Canada",45.50038,-73.5790128,H3G,≈148,12.0,,Autres services professionels
+336,"Rue Drummond, Montréal, QC, Canada",45.4993578,-73.57577629999999,,≈148,12.0,,Autres services professionels
+337,"3421 Rue Drummond, Montréal, QC H3G 1X7, Canada",45.500994,-73.578678,H3G 1X7,≈148,12.0,,Autres services professionels
+338,"305 Boulevard René-Lévesque O, Montréal, QC H2Z 1X1, Canada",45.5058527,-73.5647427,H2Z 1X1,≈148,12.0,,Autres services professionels
+339,"615 Boulevard René-Lévesque O, Montréal, QC H3B 1P4, Canada",45.5028954,-73.5669436,H3B 1P4,≈148,12.0,1961.0,Autres services professionels
+340,"1435 Rue St-Alexandre, Montréal, QC H3A 2G4, Canada",45.5059069,-73.5681511,H3A 2G4,≈148,12.0,1949.0,Autres services professionels
+341,"1440 Rue Sainte-Catherine O, Montréal, QC H3G 1R3, Canada",45.49601989999999,-73.5765625,H3G 1R3,≈148,12.0,1965.0,Autres services professionels
+342,"3535 Rue Saint-Denis, Montréal, QC H2X 3P1, Canada",45.5178159,-73.5687672,H2X 3P1,≈148,12.0,1976.0,Residential
+343,"1450 Rue Plessis, Montréal, QC H2L 2X4, Canada",45.5208472,-73.5554263,H2L 2X4,≈148,12.0,,Autres services professionels
+344,"1550 Rue Fullum, Montréal, QC H2K 3M4, Canada",45.52781359999999,-73.54970949999998,H2K 3M4,≈148,12.0,,Immeuble commercial
+345,"630 Rue Sherbrooke Ouest, Montréal, QC H3A 1E4, Canada",45.5051554,-73.5728235,H3A 1E4,≈148,12.0,1956.0,Autres services professionels
+346,"Édifice Henry F. Hall, Boulevard de Maisonneuve O, Montréal, QC H3G 1M8, Canada",45.4973223,-73.57902879999997,H3G 1M8,≈148,12.0,1966.0,Office
+347,"1250 Rue Guy, Montréal, QC H3H 2T4, Canada",45.4947177,-73.57766109999999,H3H 2T4,≈148,12.0,1990.0,Autres services professionels
+348,"360 Rue Saint-Antoine O, Montréal, QC H2Y 3X4, Canada",45.502858,-73.56037099999998,H2Y 3X4,≈148,12.0,,Residential
+349,"3465 Chemin de la Côte-des-Neiges, Montréal, QC H3H 1T7, Canada",45.4966898,-73.58341180000002,H3H 1T7,≈148,12.0,,Office
+350,"1425 Boulevard René-Lévesque O, Montréal, QC H3G 1T7, Canada",45.49514509999999,-73.57411499999998,H3G 1T7,≈148,12.0,1934.0,Autres services professionels
+351,"465 Rue McGill, Montréal, QC H2Y 2H1, Canada",45.5009305,-73.55863509999998,H2Y 2H1,≈148,12.0,1994.0,Office
+352,"85 Rue Sainte-Catherine O, Montréal, QC H2X 1Z7, Canada",45.5090894,-73.56467459999998,H2X 1Z7,≈148,12.0,,Autres services professionels
+353,"1214 Rue Crescent, Montréal, QC H3G 2A9, Canada",45.4964641,-73.5748225,H3G 2A9,≈148,12.0,,Residential
+354,"2300 Rue Saint Mathieu #100, Montréal, QC H3H 2J8, Canada",45.4951033,-73.5818891,H3H 2J8,≈148,12.0,1989.0,Autres services professionels
+355,"1030 Rue de la Montagne, Montréal, QC H3G 1Y7, Canada",45.4957989,-73.57120549999998,H3G 1Y7,≈148,12.0,1991.0,Autres services professionels
+356,"1500 Avenue McGill College, Montréal, QC H3A 3J5, Canada",45.50234,-73.5723531,H3A 3J5,≈148,12.0,1981.0,Autres services professionels
+357,"1227 Rue Sherbrooke Ouest, Montréal, QC H3G 1G1, Canada",45.5003748,-73.5783496,H3G 1G1,≈148,12.0,1925.0,Autres services professionels
+358,"1414 Rue Chomedey, Montréal, QC H3H 0A2, Canada",45.490339,-73.58355999999998,H3H 0A2,≈135,11.0,2013.0,Autres services professionels
+359,"1414 Rue Chomedey, Montréal, QC H3H 0A2, Canada",45.490339,-73.58355999999998,H3H 0A2,≈135,11.0,2013.0,Autres services professionels
+360,"Montreal, QC H3C 2H8, Canada",45.4968726,-73.5671662,H3C 2H8,≈135,11.0,1889.0,Autres services professionels
+361,"511 Place d'Armes, Montréal, QC H2Y 1L3, Canada",45.505198,-73.5570571,H2Y 1L3,≈135,11.0,1888.0,Autres services professionels
+362,"1825 Rue Sainte-Rose, Montreal, QC H2K 4M1, Canada",45.5226252,-73.5512535,H2K 4M1,≈135,11.0,,Autres services professionels
+363,"1455 Rue Peel, Montréal, QC H3A 1T5, Canada",45.5009299,-73.57364270000002,H3A 1T5,≈135,11.0,1957.0,Autres services professionels
+364,"408 Rue Saint Gabriel, Montréal, QC H2Y 2Z9, Canada",45.5062106,-73.5535744,H2Y 2Z9,≈135,11.0,2011.0,Residential
+365,"1414 Rue Drummond, Montréal, QC H3G 1W1, Canada",45.4989097,-73.57526209999997,H3G 1W1,≈135,11.0,1930.0,Autres services professionels
+366,"515 Rue Sainte-Catherine O, Montréal, QC H3B 1B2, Canada",45.5047769,-73.56882370000002,H3B 1B2,≈135,11.0,,Autres services professionels
+367,"1455 Rue Peel, Montréal, QC H3A 1T5, Canada",45.5009299,-73.57364270000002,H3A 1T5,≈135,11.0,1927.0,Autres services professionels
+368,"1600 Boulevard de Maisonneuve East, Montréal, QC H2L 4P2, Canada",45.522077,-73.554694,H2L 4P2,≈135,11.0,,Autres services professionels
+369,"276 Rue Saint-Jacques, Montréal, QC H2Y 1N3, Canada",45.5030014,-73.5589487,H2Y 1N3,≈135,11.0,,Autres services professionels
+370,"1515 Avenue du Docteur-Penfield, Montréal, QC H3G 2R8, Canada",45.498145,-73.5853679,H3G 2R8,≈135,11.0,,Autres services professionels
+371,"3460 Rue Simpson, Montréal, QC H3G 2J4, Canada",45.4980479,-73.58317609999997,H3G 2J4,≈135,11.0,,Autres services professionels
+372,"3480 Rue Simpson #708, Montréal, QC H3G 2N7, Canada",45.4980998,-73.58416190000001,H3G 2N7,≈135,11.0,,Autres services professionels
+373,"Rue Simpson, Montréal, QC, Canada",45.4980613,-73.58301290000001,,≈135,11.0,,Autres services professionels
+374,"1435 Rue de Bleury, Montréal, QC H3A 2H7, Canada",45.5066108,-73.56737790000003,H3A 2H7,≈135,11.0,,Autres services professionels
+375,"1001 De Maisonneuve Est, 1001 Boulevard de Maisonneuve East, Montreal, QC H2L 4P9, Canada",45.5180634,-73.55922070000003,H2L 4P9,≈135,11.0,,Office
+376,"2120 Rue Sherbrooke E, Montréal, QC H2K 1C3, Canada",45.5309882,-73.56252479999998,H2K 1C3,≈135,11.0,1964.0,Autres services professionels
+377,"1010 Rue de la Gauchetière O Bureau 650, Montréal, QC H3B 2N2, Canada",45.49744219999999,-73.5667297,H3B 2N2,≈135,11.0,,Autres services professionels
+378,"1851 Rue Sherbrooke E, Montréal, QC H2K 4L5, Canada",45.5288666,-73.5639241,H2K 4L5,≈135,11.0,1975.0,Autres services professionels
+379,"1210 Rue Sherbrooke Ouest, Montréal, QC H3A 1H6, Canada",45.5004405,-73.577548,H3A 1H6,≈135,11.0,1962.0,Office
+380,"1321 Rue Sherbrooke Ouest, Montréal, QC H3G 1J4, Canada",45.4994885,-73.57921309999998,H3G 1J4,≈135,11.0,,Autres services professionels
+381,"555 Rue Sherbrooke Ouest, Montréal, QC H3A 1E3, Canada",45.505633,-73.573047,H3A 1E3,≈135,11.0,1912.0,Autres services professionels
+382,"Guy-Concordia, 1445 Rue Guy, Montréal, QC H3H 2L5, Canada",45.4957515,-73.5789746,H3H 2L5,≈135,11.0,1965.0,Immeuble commercial
+383,"1435 Rue de Bleury, Montréal, QC H3A 2H7, Canada",45.5066108,-73.56737790000003,H3A 2H7,≈135,11.0,1922.0,Autres services professionels
+384,"1545 Avenue du Docteur-Penfield, Montréal, QC H3G 1C7, Canada",45.4977096,-73.5857542,H3G 1C7,≈135,11.0,,Autres services professionels
+385,"1212 Rue Sanguinet, Montréal, QC H2X 3E7, Canada",45.5119946,-73.55992690000002,H2X 3E7,≈135,11.0,2001.0,Immeuble commercial
+386,"2098 Rue Kimberley, Montréal, QC H3C 3P8, Canada",45.5091374,-73.56855139999998,H3C 3P8,≈123,10.0,2005.0,Immeuble commercial
+387,"1455 Rue Peel, Montréal, QC H3A 1T5, Canada",45.5009299,-73.57364270000002,H3A 1T5,≈123,10.0,2004.0,Autres services professionels
+388,"1509 Rue Sherbrooke Ouest, Montréal, QC H3G 1M1, Canada",45.4971523,-73.5816339,H3G 1M1,≈123,10.0,1908.0,Autres services professionels
+389,"1745 Rue Notre-Dame O Montréal, QC H3J 2L3 Rue Notre-Dame Ouest, Montréal, QC H3J 2L3, Canada",45.4888804,-73.56853749999998,H3J 2L3,≈123,10.0,1975.0,Autres services professionels
+390,"2065 Rue Sherbrooke Ouest, Montréal, QC H3H 1G6, Canada",45.4940817,-73.5854666,H3H 1G6,≈123,10.0,1983.0,Autres services professionels
+391,"2065 Rue Sherbrooke Ouest, Montréal, QC H3H 1G6, Canada",45.4940817,-73.5854666,H3H 1G6,≈123,10.0,1983.0,Autres services professionels
+392,"2065 Rue Sherbrooke Ouest, Montréal, QC H3H 1G6, Canada",45.4940817,-73.5854666,H3H 1G6,≈123,10.0,1983.0,Autres services professionels
+393,"1265 Rue Berri, Montréal, QC H2L 4S6, Canada",45.5146026,-73.55884959999999,H2L 4S6,≈123,10.0,1964.0,Autres services professionels
+394,"715 Rue du Square-Victoria, Montréal, QC H2Y 3Y9, Canada",45.5015636,-73.5608245,H2Y 3Y9,≈123,10.0,1909.0,Autres services professionels
+395,"407 Boul St-Laurent, Montréal, QC H2Y 2Y5, Canada",45.5058678,-73.55404200000002,H2Y 2Y5,≈123,10.0,1920.0,Autres services professionels
+396,"Holt Renfrew, 1300 Rue Sherbrooke Ouest, Montréal, QC H3G 1G2, Canada",45.4994805,-73.5785372,H3G 1G2,≈123,10.0,1935.0,Autres services professionels
+397,"240 Rue Saint-Jacques, Montréal, QC H2Y 1L9, Canada",45.5034392,-73.55843420000002,H2Y 1L9,≈123,10.0,1902.0,Office
+398,"2000 Rue Peel, Montréal, QC H3A 2W5, Canada",45.50090729999999,-73.5751638,H3A 2W5,≈123,10.0,1980.0,Autres services professionels
+399,"1111 Rue Saint-Urbain, Montréal, QC H2Z 1Y6, Canada",45.5076185,-73.56199749999998,H2Z 1Y6,≈123,10.0,1985.0,Autres services professionels
+400,"2077 Rue Stanley, Montréal, QC H3A 1R7, Canada",45.500929600000006,-73.57665039999998,H3A 1R7,≈123,10.0,2012.0,Immeuble commercial
+401,"999 Boulevard Robert-Bourassa, Montréal, QC H3C 6J7, Canada",45.5009495,-73.56247069999998,H3C 6J7,≈123,10.0,,Autres services professionels
+402,"1637 Rue Amherst, Montréal, QC H2L 3L4, Canada",45.518754,-73.559649,H2L 3L4,≈123,10.0,,Residential
+403,"705 Rue Sainte-Catherine O, Montréal, QC H3B 4G5, Canada",45.5025389,-73.5713265,H3B 4G5,≈123,10.0,1992.0,Autres services professionels
+404,"60 Rue Saint-Jacques, Montréal, QC H2Y 1L2, Canada",45.5054401,-73.5569153,H2Y 1L2,≈123,10.0,,Office
+405,"4 Rue Notre-Dame Est, Montréal, QC H2Y 1B8, Canada",45.50624370000001,-73.5553152,H2Y 1B8,≈123,10.0,,Autres services professionels
+406,"10 Rue Saint-Jacques, Montréal, QC H2Y 1L3, Canada",45.5063185,-73.5563963,H2Y 1L3,≈123,10.0,,Autres services professionels
+407,"1155 Rue Metcalfe, Montréal, QC H3B 2V6, Canada",45.50026130000001,-73.5703016,H3B 2V6,≈123,10.0,,Autres services professionels
+408,"1030 Rue St-Alexandre, Montréal, QC H2Z 1P3, Canada",45.503073,-73.56322279999998,H2Z 1P3,≈123,10.0,,Autres services professionels
+409,"1400 Maisonneuve Blvd W, Montreal, QC H3G 1M8, Canada",45.4968739,-73.57803740000001,H3G 1M8,≈123,10.0,1992.0,Immeuble commercial
+410,"1450 Rue City Councillors, Montréal, QC H3A 2E6, Canada",45.50501660000001,-73.5693287,H3A 2E6,≈123,10.0,1957.0,Autres services professionels
+411,"200 Boulevard René-Lévesque O, Montréal, QC H2Z 1X4, Canada",45.5068841,-73.56267079999998,H2Z 1X4,≈123,10.0,,Autres services professionels
+412,"2050 Rue de Bleury, Montréal, QC H3A 3S1, Canada",45.5076778,-73.57010090000001,H3A 3S1,≈123,10.0,1992.0,Autres services professionels
+413,"1070 Rue de Bleury, Montréal, QC H2Z 1N3, Canada",45.5045376,-73.5632676,H2Z 1N3,≈123,10.0,,Autres services professionels
+414,"901 Rue du Square-Victoria, Montréal, QC H2Z 1R1, Canada",45.5020684,-73.56194789999998,H2Z 1R1,≈123,10.0,2004.0,Residential
+415,"1199 Rue Berri, Montréal, QC H2L 4C6, Canada",45.5141472,-73.5579714,H2L 4C6,≈123,10.0,1986.0,Residential
+416,"1193 Place Phillips, Montréal, QC H3B 3C9, Canada",45.50361600000001,-73.56739430000002,H3B 3C9,≈123,10.0,,Residential
+417,"1515 Avenue du Docteur-Penfield, Montréal, QC H3G 2R8, Canada",45.498145,-73.5853679,H3G 2R8,≈123,10.0,,Autres services professionels
+418,"1520 Avenue du Docteur-Penfield, Montréal, QC H3G 1B9, Canada",45.49815570000001,-73.58498759999998,H3G 1B9,≈123,10.0,,Autres services professionels
+419,"1455 Boulevard de Maisonneuve O, Montréal, QC H3G 1M8, Canada",45.4970605,-73.5788022,H3G 1M8,≈123,10.0,1916.0,Autres services professionels
+420,"3575 Boul St-Laurent, Montréal, QC H2X 2T6, Canada",45.5138709,-73.5722248,H2X 2T6,≈123,10.0,1983.0,Autres services professionels
+421,"305 Rue Sainte-Catherine O, Montréal, QC H2X 2A3, Canada",45.5067089,-73.56682940000002,H2X 2A3,≈123,10.0,1983.0,Autres services professionels
+422,"401 Rue McGill, Montréal, QC H2Y 2G2, Canada",45.500435,-73.557451,H2Y 2G2,≈123,10.0,,Autres services professionels
+423,"31 Rue Duke, Montréal, QC H3C 2L8, Canada",45.4958545,-73.55404,H3C 2L8,≈123,10.0,2002.0,Autres services professionels
+424,"355 Rue McGill, Montréal, QC H2Y 2E8, Canada",45.50028140000001,-73.5567557,H2Y 2E8,≈123,10.0,1908.0,Residential
+425,"747 Rue du Square-Victoria, Montréal, QC H2Y 3Y9, Canada",45.5020262,-73.5601944,H2Y 3Y9,≈123,10.0,1991.0,Autres services professionels
+426,"900 Boulevard René-Lévesque O, Montréal, QC H3B 4A5, Canada",45.5005463,-73.56828279999998,H3B 4A5,≈123,10.0,,Immeuble commercial
+427,"50 Rue des Seigneurs, Montréal, QC H3J 1X4, Canada",45.4862384,-73.56675659999998,H3J 1X4,≈111,9.0,,Autres services professionels
+428,"901 de la Commune Est #614, Vieux-Montréal, QC H2L 0E2, Canada",45.51313920000001,-73.54930490000002,H2L 0E2,≈111,9.0,2013.0,Autres services professionels
+429,"901 de la Commune Est #614, Vieux-Montréal, QC H2L 0E2, Canada",45.51313920000001,-73.54930490000002,H2L 0E2,≈111,9.0,2009.0,Autres services professionels
+430,"888 Rue Wellington #405, Montréal, QC H3C 0N1, Canada",45.49626660000001,-73.55550869999998,H3C 0N1,≈111,9.0,2010.0,Autres services professionels
+431,"Avenue Mcgregor, Montréal, QC H3G, Canada",45.499095,-73.5853178,H3G,≈111,9.0,1928.0,Autres services professionels
+432,"87 Rue Ontario O, Montréal, QC H2X 0A7, Canada",45.5102905,-73.5674465,H2X 0A7,≈111,9.0,,Autres services professionels
+433,"1010 Rue Sainte-Catherine O, Montréal, QC H3B 3S3, Canada",45.5001239,-73.5720615,H3B 3S3,≈111,9.0,2009.0,Autres services professionels
+434,"1500 Boulevard Robert-Bourassa, Montréal, QC H3A 3S8, Canada",45.50327799999999,-73.57090290000002,H3A 3S8,≈111,9.0,1925.0,Autres services professionels
+435,"901 de la Commune Est #614, Vieux-Montréal, QC H2L 0E2, Canada",45.51313920000001,-73.54930490000002,H2L 0E2,≈111,9.0,2007.0,Autres services professionels
+436,"1475 Boulevard René-Lévesque O Phase I, Montréal, QC H3G 1T8, Canada",45.494516,-73.574752,H3G 1T8,≈111,9.0,,Autres services professionels
+437,"350 Rue Prince Arthur O, Montréal, QC H2X 3R4, Canada",45.5099688,-73.5757392,H2X 3R4,≈111,9.0,,Autres services professionels
+438,"1205 Rue Labelle, Montréal, QC H2L 4C1, Canada",45.5145172,-73.5579675,H2L 4C1,≈111,9.0,,Residential
+439,"1801 Boulevard de Maisonneuve O, Montréal, QC H3H 2J4, Canada",45.4945406,-73.5809309,H3H 2J4,≈111,9.0,1993.0,Autres services professionels
+440,"365 Rue Saint-André, Montréal, QC H2L 0B9, Canada",45.5132525,-73.549993,H2L 0B9,≈111,9.0,,Autres services professionels
+441,"333 Rue Sherbrooke E, Montréal, QC H2X 4E3, Canada",45.516343,-73.56810089999998,H2X 4E3,≈111,9.0,2009.0,Autres services professionels
+442,"333 Rue Sherbrooke E, Montréal, QC H2X 4E3, Canada",45.516343,-73.56810089999998,H2X 4E3,≈111,9.0,2009.0,Autres services professionels
+443,"3464 Rue Hutchison, Montréal, QC H2V 4A9, Canada",45.5081558,-73.5732215,H2V 4A9,≈111,9.0,,Office
+444,"620 Rue Sainte-Catherine O, Montréal, QC H3B 1B7, Canada",45.503524,-73.56922999999998,H3B 1B7,≈111,9.0,1910.0,Immeuble commercial
+445,"3510 Rue de la Montagne, Montréal, QC H3G 2A6, Canada",45.5009031,-73.58164609999999,H3G 2A6,≈111,9.0,,Autres services professionels
+446,"1180 Rue de la Montagne, Montréal, QC H3G 1Z1, Canada",45.4969553,-73.5734207,H3G 1Z1,≈111,9.0,1991.0,Immeuble commercial
+447,"111 Rue Duke, Montréal, QC H3C 2M1, Canada",45.4967578,-73.5562301,H3C 2M1,≈111,9.0,2000.0,Autres services professionels
+448,"630 Rue William, Montréal, QC H3C 4C9, Canada",45.4994011,-73.55644989999998,H3C 4C9,≈111,9.0,,Autres services professionels
+449,"630 Rue William, Montréal, QC H3C 4C9, Canada",45.4994011,-73.55644989999998,H3C 4C9,≈111,9.0,,Autres services professionels
+450,"1950 Rue Sherbrooke Ouest, Montréal, QC H3H 1E8, Canada",45.49415279999999,-73.5836594,H3H 1E8,≈111,9.0,,Autres services professionels
+451,"1330 Rue Olier, Montréal, QC H3C 0T3, Canada",45.4906291,-73.55864749999998,H3C 0T3,≈98,8.0,2004.0,Autres services professionels
+452,"1170 Rue Peel #110, Montréal, QC H3B 0A9, Canada",45.4991709,-73.5714316,H3B 0A9,≈98,8.0,,Autres services professionels
+453,"1155 Rue Sherbrooke Ouest, Montréal, QC H3A 2N3, Canada",45.5014505,-73.5773988,H3A 2N3,≈98,8.0,2013.0,Residential
+454,"1845 Rue William, Montréal, QC H3J 1R6, Canada",45.4871375,-73.5673418,H3J 1R6,≈98,8.0,2013.0,Autres services professionels
+455,"1845 Rue William, Montréal, QC H3J 1R6, Canada",45.4871375,-73.5673418,H3J 1R6,≈98,8.0,2013.0,Autres services professionels
+456,"3443 Chemin de la Côte-des-Neiges, Montréal, QC H3H, Canada",45.4967176,-73.58252209999998,H3H,≈98,8.0,,Autres services professionels
+457,"1770 Rue Joseph Manseau, Montréal, QC H3H 0A8, Canada",45.4912484,-73.57650059999997,H3H 0A8,≈98,8.0,,Autres services professionels
+458,"855 Rue Sherbrooke Ouest, Montréal, QC H3A 2T7, Canada",45.504328,-73.5778508,H3A 2T7,≈98,8.0,,Autres services professionels
+459,"102 Rue Saint-Antoine O, Montréal, QC H2Y 1J6, Canada",45.5053537,-73.5582244,H2Y 1J6,≈98,8.0,,Autres services professionels
+460,"201 Avenue du Président-Kennedy, Montréal, QC H2X 3Y7, Canada",45.50893060000001,-73.5685676,H2X 3Y7,≈98,8.0,,Autres services professionels
+461,"585 Rue Sainte-Catherine O, Montréal, QC H3B 3Y5, Canada",45.5041232,-73.56926170000001,H3B 3Y5,≈98,8.0,,Immeuble commercial
+462,"1010 Rue Sainte-Catherine O, Montréal, QC H3B 5L1, Canada",45.5002876,-73.57233000000002,H3B 5L1,≈98,8.0,1913.0,Autres services professionels
+463,"405 Rue Sainte-Catherine Est, Montréal, QC H2L 2C4, Canada",45.5125995,-73.56059549999998,H2L 2C4,≈98,8.0,1968.0,Autres services professionels
+464,"305 Rue Sainte-Catherine O, Montréal, QC H2X 2A3, Canada",45.5067089,-73.56682940000002,H2X 2A3,≈98,8.0,1983.0,Autres services professionels
+465,"307 Ch de la Ronde, Montréal, QC H3C 0K7, Canada",45.5247439,-73.53452929999997,H3C 0K7,≈98,8.0,2010.0,Autres services professionels
+466,"300 Rue Léo Pariseau, Montréal, QC H2X 4C2, Canada",45.51121970000001,-73.5766469,H2X 4C2,≈98,8.0,,Autres services professionels
+467,"1605 Avenue du Docteur-Penfield, Montréal, QC H3H 1B2, Canada",45.4961125,-73.58728509999997,H3H 1B2,≈98,8.0,,Autres services professionels
+468,"1740 Boulevard René-Lévesque O, Montréal, QC H3H 1R3, Canada",45.49229920000001,-73.576089,H3H 1R3,≈98,8.0,1985.0,Residential
+469,"3610 Durocher, Montréal, QC H2X 2E8, Canada",45.5091863,-73.5773564,H2X 2E8,≈98,8.0,,Office
+470,"1255 Rue Peel, Montréal, QC H3B 4V4, Canada",45.5001458,-73.57202640000001,H3B 4V4,≈98,8.0,,Autres services professionels
+471,"3494 Rue Jeanne-Mance, Montréal, QC H2X 2J8, Canada",45.5100106,-73.57296559999997,H2X 2J8,≈98,8.0,,Autres services professionels
+472,"1214 Rue Crescent, Montréal, QC H3G 2A9, Canada",45.4964641,-73.5748225,H3G 2A9,≈98,8.0,1989.0,Residential
+473,"3463 Rue Sainte Famille, Montréal, QC H2X 2K7, Canada",45.5108059,-73.5719734,H2X 2K7,≈98,8.0,,Residential
+474,"425 Rue Sherbrooke Ouest, Montréal, QC H3A 2V7, Canada",45.507470700000006,-73.57217589999998,H3A 2V7,≈98,8.0,,Office
+475,"3455 Rue Drummond, Montréal, QC H3G 2R6, Canada",45.5015988,-73.57992540000002,H3G 2R6,≈98,8.0,,Office
+476,"625 Rue Belmont, Montréal, QC H3B 2M1, Canada",45.5017253,-73.5659575,H3B 2M1,≈98,8.0,,Autres services professionels
+477,"150 Rue Saint-Paul O, Montréal, QC H2Y 1Z6, Canada",45.50334669999999,-73.55457190000001,H2Y 1Z6,≈98,8.0,,Autres services professionels
+478,"888 Rue Wellington #405, Montréal, QC H3C 0N1, Canada",45.49626660000001,-73.55550869999998,H3C 0N1,≈86,7.0,2007.0,Autres services professionels
+479,"55 Rue Saint-Jacques, Montréal, QC H2Y 1K9, Canada",45.50551189999999,-73.5573722,H2Y 1K9,≈86,7.0,,Residential
+480,"1005 Rue Guy, Montréal, QC H3H 2K4, Canada",45.49365969999999,-73.5741872,H3H 2K4,≈86,7.0,,Immeuble commercial
+481,"3459 McTavish St, Montreal, QC H3A 0C9, Canada",45.5031206,-73.5761354,H3A 0C9,≈86,7.0,,Autres services professionels
+482,"1001 Jean Paul Riopelle Pl, Montreal, QC H2Z 1H5 Place Jean-Paul-Riopelle, Montréal, QC H2Z 1H5, Canada",45.50386,-73.56096889999998,H2Z 1H5,,7.0,1983.0,Autres services professionels
+483,"2060 Rue de la Montagne, Montréal, QC H3G 1Z7, Canada",45.49883759999999,-73.5775855,H3G 1Z7,≈86,7.0,1900.0,Autres services professionels
+484,"1184 Rue Sainte-Catherine O, Montréal, QC H3B 1K1, Canada",45.49894260000001,-73.57372480000002,H3B 1K1,≈86,7.0,1915.0,Autres services professionels
+485,"980 Rue Saint-Antoine O, Montréal, QC H3C 1A8, Canada",45.4980456,-73.565113,H3C 1A8,≈86,7.0,1935.0,Autres services professionels
+486,"747 Rue du Square-Victoria, Montréal, QC H2Y 3Y9, Canada",45.5020081,-73.56106129999998,H2Y 3Y9,≈86,7.0,1989.0,Autres services professionels
+487,"205 Avenue Viger O, Montréal, QC H2Z 1G2, Canada",45.5052768,-73.56147259999999,H2Z 1G2,≈86,7.0,1972.0,Autres services professionels
+488,"4 Rue Notre-Dame Ouest, Montréal, QC H3J 1N4, Canada",45.5059899,-73.55565829999998,H3J 1N4,≈86,7.0,1991.0,Autres services professionels
+489,"1000 Rue Saint-Antoine O, Montréal, QC H3C 3R7, Canada",45.497612,-73.56551000000002,H3C 3R7,≈86,7.0,1925.0,Autres services professionels
+490,"1260 Boulevard Robert-Bourassa, Montréal, QC H3B, Canada",45.50294,-73.56969790000002,H3B,≈86,7.0,1936.0,Office
+491,"Board of Trade, 300 Saint-Sacrement St, Montreal, QC H2Y 1X4, Canada",45.5019467,-73.55696,H2Y 1X4,≈86,7.0,1903.0,Office
+492,"2160 Rue de la Montagne #400, Montréal, QC H3G 2T3, Canada",45.4990994,-73.57816059999998,H3G 2T3,≈86,7.0,,Autres services professionels
+493,"1414 Rue Chomedey, Montréal, QC H3H 0A2, Canada",45.490339,-73.58355999999998,H3H 0A2,≈86,7.0,2013.0,Autres services professionels
+494,"10 Rue Notre-Dame Est, Montréal, QC H2Y 1B7, Canada",45.50630510000001,-73.55526309999998,H2Y 1B7,≈86,7.0,,Autres services professionels
+495,"1400 Rue de Bleury, Montréal, QC H3A 2J1, Canada",45.506299,-73.56752449999998,H3A 2J1,≈86,7.0,1970.0,Autres services professionels
+496,"3425 Avenue Papineau, Montréal, QC H2K, Canada",45.52871,-73.5644428,H2K,≈86,7.0,,Office
+497,"1180 Rue Drummond bureau 100, Montréal, QC H3G 2R7, Canada",45.4974454,-73.5724133,H3G 2R7,≈86,7.0,,Autres services professionels
+498,"1355 Boulevard René-Lévesque O, Montréal, QC H3G 1T3, Canada",45.4961092,-73.5731796,H3G 1T3,≈86,7.0,,Autres services professionels
+499,"2170 Avenue Lincoln, Montréal, QC H3H 2N5, Canada",45.4918523,-73.58516089999998,H3H 2N5,≈86,7.0,,Residential
+500,"900 Boulevard René-Lévesque O, Montréal, QC H3B 4A5, Canada",45.5005463,-73.56828279999998,H3B 4A5,≈86,7.0,,Immeuble commercial
+501,"125 Rue Charlotte, Montréal, QC H2X 1M2, Canada",45.5105723,-73.56165899999998,H2X 1M2,≈74,6.0,2016.0,Autres services professionels
+502,"700 Rue Saint Antoine E, Montréal, QC H2Y 3E5, Canada",45.51255379999999,-73.5532745,H2Y 3E5,≈74,6.0,1898.0,Autres services professionels
+503,"1001 Rue Sainte-Catherine O, Montréal, QC H3A 1X2, Canada",45.5007744,-73.57267999999998,H3A 1X2,≈74,6.0,,Autres services professionels
+504,"700 Rue Saint-Antoine O, Montréal, QC H4Z 1A1, Canada",45.5011281,-73.56205200000002,H4Z 1A1,≈74,6.0,2014.0,Autres services professionels
+505,"Place Ville Marie, Montreal, QC H3B, Canada",45.5019217,-73.5680473,H3B,≈74,6.0,1962.0,Autres services professionels
+506,"Rue Saint-Paul O, Montréal, QC, Canada",45.5006415,-73.55674309999998,,≈74,6.0,1907.0,Autres services professionels
+507,"740 Rue Saint Maurice, Montréal, QC H3C 1L5, Canada",45.4987066,-73.55991340000001,H3C 1L5,≈74,6.0,1989.0,Office
+508,"Rue Centre, Montréal, QC H3K, Canada",45.4806293,-73.56581849999998,H3K,≈74,6.0,1971.0,Autres services professionels
+509,"Installation 1: 205 avenue Viger Ouest, H2Z 1G2, Installation 2:, 309 Rue Notre-Dame Est, Montréal, QC H2Y 3Z2, Canada",45.50689999999999,-73.5557917,H2Y 3Z2,≈74,6.0,1990.0,Autres services professionels
+510,"430 Rue Sainte-Hélène, Montréal, QC H2Y 2K7, Canada",45.5009492,-73.55786499999998,H2Y 2K7,≈74,6.0,1986.0,Office
+511,"Le Faubourg Sainte Catherine, Montreal, QC H3H, Canada",45.4941161,-73.57830290000003,H3H,≈74,6.0,1987.0,Office
+512,"2200 Avenue McGill College, Montréal, QC H3A 3P8, Canada",45.5031133,-73.57409140000001,H3A 3P8,≈74,6.0,1990.0,Autres services professionels
+513,"420 Rue Notre-Dame Ouest, Montréal, QC H2Y 1V3, Canada",45.5013617,-73.5591439,H2Y 1V3,≈74,6.0,1988.0,Autres services professionels
+514,"615 Belmont St, Montreal, QC H3B 2L8, Canada",45.5021031,-73.56560160000002,H3B 2L8,≈74,6.0,1958.0,Autres services professionels
+515,"3530 Rue Saint-Urbain, Montréal, QC H2X 2N7, Canada",45.5119048,-73.57218680000003,H2X 2N7,≈74,6.0,,Autres services professionels
+516,"150 Rue Ontario E, Montréal, QC H2X 2Z7, Canada",45.5128778,-73.56594869999998,H2X 2Z7,≈74,6.0,,Autres services professionels
+517,"3455 Rue Hutchison, Montréal, QC H2X 2G1, Canada",45.5085092,-73.57311299999998,H2X 2G1,≈74,6.0,,Office
+518,"3484 Rue Stanley, Montréal, QC H3A 1S1, Canada",45.5021836,-73.5801369,H3A 1S1,≈74,6.0,,Autres services professionels
+519,"1845 Rue William, Montréal, QC H3J 1R6, Canada",45.4871375,-73.5673418,H3J 1R6,≈62,5.0,2013.0,Autres services professionels
+520,"408 Rue McGill, Montréal, QC H2Y 2G1, Canada",45.5000422,-73.55766009999998,H2Y 2G1,≈62,5.0,,Office
+521,"1384 Rue Sherbrooke E, Montréal, QC H2L 1M4, Canada",45.5250341,-73.56458119999998,H2L 1M4,≈62,5.0,,Autres services professionels
+522,"506 Rue McGill, Montréal, QC H2Y 2H6, Canada",45.5009329,-73.55994670000003,H2Y 2H6,≈62,5.0,,Autres services professionels
+523,"1307 Rue Sainte-Catherine O, Montréal, QC H3G 1P7, Canada",45.4978229,-73.57530320000002,H3G 1P7,≈62,5.0,,Immeuble commercial
+524,"417 Rue Saint Nicolas, Montréal, QC H2Y 2P4, Canada",45.5023434,-73.55599629999998,H2Y 2P4,≈62,5.0,1864.0,Office
+525,"400 Rue Saint-Jacques, Montréal, QC H2Y 0A2, Canada",45.50179740000001,-73.559702,H2Y 0A2,≈62,5.0,1987.0,Autres services professionels
+526,"127 Rue Saint-Pierre, Montréal, QC H2Y 2L6, Canada",45.50070729999999,-73.55448270000002,H2Y 2L6,≈62,5.0,1875.0,Autres services professionels
+527,"416 Rue McGill, Montréal, QC H2Y 2G1, Canada",45.5002885,-73.5578348,H2Y 2G1,≈62,5.0,1855.0,Autres services professionels
+528,"2000 Avenue McGill College, Montréal, QC H3A 3H3, Canada",45.5026306,-73.5735681,H3A 3H3,≈62,5.0,2007.0,Autres services professionels
+529,"Rue Centre, Montréal, QC H3K, Canada",45.4806293,-73.56581849999998,H3K,≈62,5.0,1990.0,Autres services professionels
+530,"930 Rue Wellington, Montréal, QC H3C, Canada",45.49463799999999,-73.55544029999999,H3C,≈62,5.0,1945.0,Office
+531,"486 Rue Sainte-Catherine O, Montréal, QC H3B 1A6, Canada",45.50443509999999,-73.5681413,H3B 1A6,≈62,5.0,1910.0,Autres services professionels
+532,"Montreal, QC H2K 4R5, Canada",45.5217493,-73.5509015,H2K 4R5,≈62,5.0,1989.0,Autres services professionels
+533,"353 Rue Saint Nicolas, Montréal, QC H2Y 2P1, Canada",45.5020763,-73.5553254,H2Y 2P1,≈62,5.0,1840.0,Autres services professionels
+534,"438 Rue McGill, Montréal, QC H2Y 2G1, Canada",45.5003524,-73.5583077,H2Y 2G1,≈62,5.0,1910.0,Autres services professionels
+535,"1437 Boulevard René-Lévesque O, Montréal, QC H3G 1T7, Canada",45.494806,-73.57432850000002,H3G 1T7,≈62,5.0,,Autres services professionels
+536,"275 Rue Notre-Dame Est, Montréal, QC H2Y 1C6, Canada",45.5089192,-73.5543325,H2Y 1C6,≈62,5.0,1878.0,Immeuble commercial
+537,"447 Rue Saint-François-Xavier, Montréal, QC H2Y 2T1, Canada",45.50332570000001,-73.5562121,H2Y 2T1,≈62,5.0,1886.0,Residential
+538,"700 Rue Saint-Jacques, Montréal, QC H3C 1E9, Canada",45.49998710000001,-73.5612939,H3C 1E9,≈62,5.0,,Autres services professionels
+539,"Redpath Hall, 3461 McTavish St, Montreal, QC H3A 1Y1, Canada",45.50375379999999,-73.57735950000001,H3A 1Y1,≈49,4.0,,Office
+540,"3485 Rue McTavish, Montréal, QC H3A 0E1, Canada",45.5041451,-73.57765970000001,H3A 0E1,≈49,4.0,,Autres services professionels
+541,"1970 STE-CATHERINE O, Montréal, QC H3G 2K8, Canada",45.4919083,-73.581017,H3G 2K8,≈49,4.0,,Immeuble commercial
+542,"1391 Rue Sainte-Catherine O, Montréal, QC H3G 1R1, Canada",45.496845,-73.57624249999998,H3G 1R1,≈49,4.0,,Autres services professionels
+543,"1380 Rue Sherbrooke Ouest, Montréal, QC H3G 1J5, Canada",45.4985219,-73.57940009999999,H3G 1J5,≈49,4.0,,Autres services professionels
+544,"430 Rue Saint-Pierre, Montréal, QC H2Y 2M5, Canada",45.5016921,-73.5573507,H2Y 2M5,≈49,4.0,1942.0,Autres services professionels
+545,"255 Rue Saint-Jacques, Montréal, QC H2Y 1M6, Canada",45.50340449999999,-73.5591953,H2Y 1M6,≈49,4.0,1928.0,Autres services professionels
+546,"444 Rue Saint Paul Est, Montréal, QC H2Y 3V1, Canada",45.5106289,-73.55108489999998,H2Y 3V1,≈49,4.0,1986.0,Autres services professionels
+547,"175 Rue Sainte-Catherine, Montréal, QC H2X 1Y9, Canada",45.5083198,-73.5664312,H2X 1Y9,≈49,4.0,1982.0,Autres services professionels
+548,"1744 Rue William, Montréal, QC H3J 1R4, Canada",45.4876248,-73.56653259999999,H3J 1R4,≈49,4.0,1880.0,Autres services professionels
+549,"296 Rue Saint-Paul O, Montréal, QC H2Y 2B6, Canada",45.5015495,-73.55562320000001,H2Y 2B6,≈49,4.0,1904.0,Office
+550,"147 Rue Saint-Paul O, Montréal, QC H2Y 1Z5, Canada",45.5036994,-73.5553252,H2Y 1Z5,≈49,4.0,1800.0,Office
+551,"1445 Rue Lambert Closse, Montréal, QC H3H 1Z5, Canada",45.4907519,-73.58439200000002,H3H 1Z5,≈49,4.0,1989.0,Autres services professionels
+552,"200-210 Rue Notre-Dame Ouest, Montréal, QC H2Y 1T3, Canada",45.5037125,-73.5574195,H2Y 1T3,≈49,4.0,1874.0,Immeuble commercial
+553,"100 Rue Notre-Dame Est, Montréal, QC H2Y 4B6, Canada",45.5071477,-73.5544754,H2Y 4B6,≈49,4.0,1870.0,Autres services professionels
+554,"1361 Rue William, Montréal, QC H3C 1R4, Canada",45.491688,-73.56358829999998,H3C 1R4,≈49,4.0,2000.0,Autres services professionels
+555,"407 Place Jacques-Cartier, Montréal, QC H2Y 3B1, Canada",45.5079186,-73.55264869999998,H2Y 3B1,≈49,4.0,1986.0,Immeuble commercial
+556,"1288 Avenue des Canadiens-de-Montréal, Montréal, QC H3B 3B3, Canada",45.4961429,-73.5704392,H3B 3B3,≈49,4.0,1999.0,Autres services professionels
+557,"133 Rue de la Commune O, Montréal, QC H2Y 2C7, Canada",45.5035759,-73.55407919999998,H2Y 2C7,≈49,4.0,1857.0,Autres services professionels
+558,"1257 Rue Guy, Montréal, QC H3H 2K5, Canada",45.49500620000001,-73.57743420000001,H3H 2K5,≈49,4.0,1977.0,Autres services professionels
+559,"809 Rue William, Montréal, QC H3C 1N8, Canada",45.497605,-73.55862929999998,H3C 1N8,≈49,4.0,1920.0,Autres services professionels
+560,"329 Rue de la Commune O, Montréal, QC H2Y 2E1, Canada",45.5004571,-73.553889,H2Y 2E1,≈49,4.0,1874.0,Autres services professionels
+561,"279 Rue Sherbrooke Ouest, Montréal, QC H2X 1Y1, Canada",45.5087914,-73.5714069,H2X 1Y1,≈49,4.0,1960.0,Autres services professionels
+562,"529 Rue Ontario E, Montréal, QC H2L 1N8, Canada",45.51756500000001,-73.564729,H2L 1N8,≈49,4.0,1987.0,Autres services professionels
+563,"333 Rue de la Commune O, Montréal, QC H2Y 2E2, Canada",45.5124578,-73.54848670000001,H2Y 2E2,≈49,4.0,1974.0,Autres services professionels
+564,"249 Rue Saint-Jacques, Montréal, QC H2Y 1M6, Canada",45.5035098,-73.5592066,H2Y 1M6,≈49,4.0,1904.0,Office
+565,"338 Rue Saint Antoine E, Montréal, QC H2Y 1A3, Canada",45.5104355,-73.5543955,H2Y 1A3,≈49,4.0,,Office
+566,"455 Rue Notre-Dame Est, Montréal, QC H2Y 1C9, Canada",45.51104820000001,-73.5520757,H2Y 1C9,≈49,4.0,,Autres services professionels
+567,"350 Rue Mayor, Montréal, QC H3A 1N7, Canada",45.50671029999999,-73.5680663,H3A 1N7,≈49,4.0,1990.0,Autres services professionels
+568,"317 Place d'Youville, Montréal, QC H2Y 0A4, Canada",45.50118699999999,-73.55581029999998,H2Y 0A4,≈49,4.0,1872.0,Office
+569,"1500 Boulevard de Maisonneuve O, Montréal, QC H3G 1N1, Canada",45.4964058,-73.5787009,H3G 1N1,≈49,4.0,1982.0,Autres services professionels
+570,"1050 Rue de la Montagne, Montréal, QC H3G 1Y8, Canada",45.4958641,-73.57162779999999,H3G 1Y8,≈49,4.0,,Autres services professionels
+571,"1635 Rue Sherbrooke Ouest, Montréal, QC H3H 1E2, Canada",45.49618590000001,-73.58254050000002,H3H 1E2,≈49,4.0,1990.0,Office
+572,"1194 Rue Stanley, Montréal, QC H3B 2S7, Canada",45.498351,-73.5717592,H3B 2S7,≈49,4.0,1926.0,Autres services professionels
+573,"1306 Rue Basin, Montréal, QC H3C 1S6, Canada",45.4912199,-73.55849320000002,H3C 1S6,≈49,4.0,2001.0,Autres services professionels
+574,"645 Rue Wellington, Montréal, QC H3C 1T3, Canada",45.49864390000001,-73.5554843,H3C 1T3,≈49,4.0,1911.0,Autres services professionels
+575,"204 Place d'Youville, Montréal, QC H2Y 2B4, Canada",45.50228629999999,-73.5544783,H2Y 2B4,≈49,4.0,1894.0,Autres services professionels
+576,"901 de la Commune Est #614, Vieux-Montréal, QC H2L 0E2, Canada",45.51313920000001,-73.54930490000002,H2L 0E2,≈49,4.0,2008.0,Autres services professionels
+577,"2313 Rue Sainte-Catherine O, Montréal, QC H3H 1N2, Canada",45.48993400000001,-73.584234,H3H 1N2,≈49,4.0,2001.0,Immeuble commercial
+578,"400 Rue Saint Paul Est, Montréal, QC H2Y 1H4, Canada",45.5097703,-73.5509026,H2Y 1H4,,4.0,1771.0,Immeuble commercial
+579,"817 Rue Sherbrooke Ouest, Montréal, QC H3A 2K7, Canada",45.5054372,-73.5766089,H3A 2K7,≈37,3.0,1893.0,Autres services professionels
+580,"690 Rue Sherbrooke Ouest, Montréal, QC H3A 1E9, Canada",45.50431529999999,-73.57345990000002,H3A 1E9,≈37,3.0,,Autres services professionels
+581,"777 Rue Sainte-Catherine O, Montréal, QC H3B 1C6, Canada",45.5021338,-73.57102049999997,H3B 1C6,≈37,3.0,,Immeuble commercial
+582,"1973 Rue Falardeau, Montréal, QC H2K 2L9, Canada",45.5233128,-73.5495306,H2K 2L9,≈37,3.0,1896.0,Autres services professionels
+583,"390 Rue le Moyne, Montréal, QC H2Y 1Y3, Canada",45.5008954,-73.55738199999998,H2Y 1Y3,≈37,3.0,,Autres services professionels
+584,"1384 Rue Notre-Dame Ouest, Montréal, QC H3C 1K8, Canada",45.49183770000001,-73.56548029999998,H3C 1K8,≈37,3.0,,Office
+585,"755 Rue Berri, Montréal, QC H2Y 3E5, Canada",45.5119968,-73.5524946,H2Y 3E5,≈37,3.0,2014.0,Autres services professionels
+586,"2045 Rue Crescent, Montréal, QC H3G 2C1, Canada",45.498421,-73.5776685,H3G 2C1,≈37,3.0,1864.0,Office
+587,"1616 Boulevard René-Lévesque O, Montréal, QC H3H 1P8, Canada",45.4928248,-73.5746693,H3H 1P8,≈37,3.0,1981.0,Office
+588,"490 Rue Guy, Montréal, QC H3J 1S6, Canada",45.4899451,-73.5671152,H3J 1S6,≈37,3.0,1888.0,Autres services professionels
+589,"28 Rue Notre-Dame Ouest, Montréal, QC H2Y 1S6, Canada",45.5057583,-73.55577219999998,H2Y 1S6,≈37,3.0,1836.0,Autres services professionels
+590,"19 Rue le Royer E, Montréal, QC H2Y, Canada",45.5060377,-73.55426109999998,H2Y,≈37,3.0,1980.0,Autres services professionels
+591,"300 Place d'Youville, Montréal, QC H2Y 2B6, Canada",45.501304,-73.55500500000002,H2Y 2B6,≈37,3.0,1968.0,Autres services professionels
+592,"110 Rue Notre-Dame Ouest, Montréal, QC H2Y 1T2, Canada",45.5045254,-73.5561204,H2Y 1T2,≈37,3.0,1960.0,Immeuble commercial
+593,"1400 Maisonneuve Blvd W, Montreal, QC H3G 1M8, Canada",45.4968739,-73.57803740000001,H3G 1M8,≈37,3.0,2000.0,Immeuble commercial
+594,"800 Boulevard René-Lévesque O Suite 500, Montréal, QC H3B 2T9, Canada",45.50061450000001,-73.56761180000002,H3B 2T9,≈37,3.0,1953.0,Autres services professionels
+595,"1514 Avenue du Docteur-Penfield, Montréal, QC H3G 1B9, Canada",45.4982631,-73.58451740000002,H3G 1B9,≈37,3.0,1906.0,Autres services professionels
+596,"70 Rue Notre-Dame Ouest, Montréal, QC H2Y 1S6, Canada",45.5051643,-73.55618199999998,H2Y 1S6,≈37,3.0,1988.0,Office
+597,"320 Rue Notre-Dame Est, Montréal, QC H2Y 1C7, Canada",45.5093805,-73.55285669999998,H2Y 1C7,≈37,3.0,1800.0,Office
+598,"339 Rue Saint Paul Est, Montréal, QC H2Y 1H3, Canada",45.5091315,-73.55186189999998,H2Y 1H3,≈37,3.0,1870.0,Autres services professionels
+599,"463 Rue Sainte-Catherine O, Montréal, QC H3B 1B1, Canada",45.5053618,-73.56868809999997,H3B 1B1,≈37,3.0,1925.0,Immeuble commercial
+600,"405 Rue Bonsecours, Montréal, QC H2Y 3C3, Canada",45.51004260000001,-73.5516328,H2Y 3C3,≈37,3.0,,Immeuble commercial
+601,"350 Rue Saint Paul Est, Montréal, QC H2Y 1H2, Canada",45.5089549,-73.5514908,H2Y 1H2,≈37,3.0,1847.0,Autres services professionels
+602,"859 Rue Sherbrooke Ouest, Montréal, QC H3A 0C4, Canada",45.504468,-73.5773825,H3A 0C4,≈25,2.0,,Autres services professionels
+603,"3721 Avenue Henri-Julien, Montréal, QC H2X 3H4, Canada",45.5180116,-73.57216820000002,H2X 3H4,,2.0,,Autres services professionels
+604,"429 Rue de la Gauchetière O, Montréal, QC H2Z 0A2, Canada",45.5036639,-73.56317039999998,H2Z 0A2,≈25,2.0,1885.0,Autres services professionels
+605,"275 Avenue Viger E, Montréal, QC H2X 3S7, Canada",45.5105853,-73.5569785,H2X 3S7,≈25,2.0,1997.0,Autres services professionels
+606,"995 Rue Wellington, Montréal, QC H3C 1V3, Canada",45.4942965,-73.55690109999998,H3C 1V3,≈25,2.0,1935.0,Autres services professionels
+607,"7 Boulevard René-Lévesque O, Montréal, QC H2Z 1A1, Canada",45.5087209,-73.56197809999998,H2Z 1A1,≈12,1.0,,Autres services professionels
+608,"2098 Rue Kimberley, Montréal, QC H3C 3P8, Canada",45.5091374,-73.56855139999998,H3C 3P8,,,2019.0,Immeuble commercial
+609,"1439 Rue Sainte-Catherine O, Montréal, QC H3G 1S6, Canada",45.496525,-73.5770153,H3G 1S6,,,,Immeuble commercial
+610,"110 Rue Sainte-Catherine E, Montréal, QC H2X 1K7, Canada",45.51100200000001,-73.56260040000002,H2X 1K7,,,,Immeuble commercial
+611,"3415 Rue Redpath, Montréal, QC H3G 2G2, Canada",45.498342,-73.5809527,H3G 2G2,,,1932.0,Immeuble commercial
+612,"1001 Avenue des Canadiens-de-Montréal, Montréal, QC H3B 3B3, Canada",45.497699,-73.5694089,H3B 3B3,,,,Immeuble commercial
+613,"175 Rue Sainte-Catherine, Montréal, QC H2X 1Y9, Canada",45.5083198,-73.5664312,H2X 1Y9,,,,Autres services professionels
+614,"40 Rue des Seigneurs, Montréal, QC H3J 1X2, Canada",45.4856859,-73.56671259999997,H3J 1X2,,,,Autres services professionels
+615,"50 Rue des Seigneurs, Montréal, QC H3J 1X4, Canada",45.4862384,-73.56675659999998,H3J 1X4,,,2017.0,Autres services professionels
+616,"780 Rue Wellington, Montréal, QC H3C 2M8, Canada",45.4967407,-73.5553626,H3C 2M8,,,,Immeuble commercial
+617,"Jacques Cartier Bridge, 134 Pont Jacques-Cartier, Montréal, QC H2K 4M2, Canada",45.5219302,-73.5424231,H2K 4M2,,,1930.0,Autres services professionels
+618,"1909 Avenue des Canadiens-de-Montréal, Montréal, QC H4B 5G0, Canada",45.4960667,-73.5693153,H4B 5G0,,,1996.0,Autres services professionels
